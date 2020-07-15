@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-CW:SCH-T1:ai">SCH-T1</channel>
+<channel name="LA-CW:SCH-T2:ai">SCH-T2</channel>
+</group>
+
+<group name="G2">
+<unit >BeamDiagRoom(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac_Utility</ChartTitle>
+</group>
+
+<group name="G4">
+<channel name="RNG:BEAM:CURR">Beam current</channel>
+</group>
+
+<group name="G5">
+<unit>BeamCurrent(mA)</unit>
+</group>
+
+</groups>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="BL03U:PV0:Status">BL03U:PV0:Status</channel>
+<channel name="BL04B:PV0:Status">BL04B:PV0:Status</channel>
+<channel name="BL07W:PV0:Status">BL07W:PV0:Status</channel>
+<channel name="BL08B:PV0:Status">BL08B:PV0:Status</channel>
+<channel name="BL09U:PV0:Status">BL09U:PV0:Status</channel>
+<channel name="BL10B:PV0:Status">BL10B:PV0:Status</channel>
+<channel name="BL11U:PV0:Status">BL11U:PV0:Status</channel>
+<channel name="BL13U:PV0:Status">BL13U:PV0:Status</channel>
+</group>
+
+<group name="G2">
+<unit>Valve Status(1:on, 2:off)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Vacuum-BeamLine</ChartTitle>
+</group>
+
+
+</groups>

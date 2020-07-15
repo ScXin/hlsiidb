@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA:PICOS:Buncher:Bchannelvale:calc">Buncher-P+</channel>
+<channel name="LA:PICOS:Buncher:Dchannelvale:calc">Buncher-P-</channel>
+<channel name="LA:PICOS:KLY1:Bchannelvale:calc">KLY1-P+</channel>
+<channel name="LA:PICOS:KLY1:Dchannelvale:calc">KLY1-P-</channel>
+<channel name="LA:PICOS:KLY2:Bchannelvale:calc">KLY2-P+</channel>
+<channel name="LA:PICOS:KLY2:Dchannelvale:calc">KLY2-P-</channel>
+<channel name="LA:PICOS:KLY3:Bchannelvale:calc">KLY3-P+</channel>
+<channel name="LA:PICOS:KLY3:Dchannelvale:calc">KLY3-P-</channel>
+<channel name="LA:PICOS:KLY4:Bchannelvale:calc">KLY4-P+</channel>
+<channel name="LA:PICOS:KLY4:Dchannelvale:calc">KLY4-P-</channel>
+<channel name="LA:PICOS:KLY5:Bchannelvale:calc">KLY5-P+</channel>
+<channel name="LA:PICOS:KLY5:Dchannelvale:calc">KLY5-P-</channel>
+<channel name="LA:PICOS:KLY6:Bchannelvale:calc">KLY6-P+</channel>
+<channel name="LA:PICOS:KLY6:Dchannelvale:calc">KLY6-P-</channel>
+<channel name="LA:PICOS:KLY7:Bchannelvale:calc">KLY7-P+</channel>
+<channel name="LA:PICOS:KLY7:Dchannelvale:calc">KLY7-P-</channel>
+<channel name="LA:PICOS:KLY8:Bchannelvale:calc">KLY8-P+</channel>
+<channel name="LA:PICOS:KLY8:Dchannelvale:calc">KLY8-P-</channel>
+</group>
+
+<group name="G2">
+<unit >LLRF(MW)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-Microwave</ChartTitle>
+</group>
+
+</groups>
+

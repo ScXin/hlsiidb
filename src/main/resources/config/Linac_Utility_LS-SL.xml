@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-CW:LLC-1:ai">LLC-1</channel>
+<channel name="LA-CW:LLC-2:ai">LLC-2</channel>
+<channel name="LA-CW:LLC-3:ai">LLC-3</channel>
+<channel name="LA-CW:LLC-4:ai">LLC-4</channel>
+<channel name="LA-CW:LLC-5:ai">LLC-5</channel>
+<channel name="LA-CW:LLC-6:ai">LLC-6</channel>
+<channel name="LA-CW:LLC-7:ai">LLC-7</channel>
+<channel name="LA-CW:LLC-8:ai">LLC-8</channel>
+<channel name="LA-CW:LLC-9:ai">LLC-9</channel>
+<channel name="LA-CW:LLC-10:ai">LLC-10</channel>
+<channel name="LA-CW:LLC-11:ai">LLC-11</channel>
+<channel name="LA-CW:LLC-12:ai">LLC-12</channel>
+<channel name="LA-CW:LLC-13:ai">LLC-13</channel>
+<channel name="LA-CW:LLC-14:ai">LLC-14</channel>
+<channel name="LA-CW:LLC-15:ai">LLC-15</channel>
+<channel name="LA-CW:LLC-16:ai">LLC-16</channel>
+<channel name="LA-CW:LSC1:ai">LSC1</channel>
+<channel name="LA-CW:LSC2:ai">LSC2</channel>
+<channel name="LA-CW:PB:ai">PB</channel>
+</group>
+
+<group name="G2">
+<unit >Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac_Utility</ChartTitle>
+</group>
+
+</groups>
+

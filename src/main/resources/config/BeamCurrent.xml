@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+
+<group name="G1">
+<channel name="RNG:BEAM:CURR">BeamCurrent</channel>
+<channel name="RNG:BEAM:LIFE">Lifetime</channel>
+</group>
+
+<group name="G2">
+<unit>Current(mA)</unit>
+<unit>Lifetime(hrs)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>BeamCurrent</ChartTitle>
+<ChartTitle>Lifetime</ChartTitle>
+</group>
+
+<group name="G4">
+<channel name="RNG:BEAM:LIFE">Lifetime</channel>
+</group>
+
+<group name="G5">
+<unit>Lifetime(hrs)</unit>
+</group>
+
+</groups>
+
+

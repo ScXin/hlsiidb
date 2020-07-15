@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA_PS_SC1:current:ai">SC1</channel>
+<channel name="LA_PS_SC2:current:ai">SC2</channel>
+<channel name="LA_PS_LC1:current:ai">LC1</channel>
+<channel name="LA_PS_LC2:current:ai">LC2</channel>
+<channel name="LA_PS_HIC1:current:ai">HIC1</channel>
+<channel name="LA_PS_HIC2:current:ai">HIC2</channel>
+<channel name="LA_PS_VIC1:current:ai">VIC1</channel>
+<channel name="LA_PS_VIC2:current:ai">VIC2</channel>
+<channel name="TL_PS_SM:current:ai">SM</channel>
+<channel name="TL_PS_AM:current:ai">AM</channel>
+<channel name="TL_PS_AQ2:current:ai">AQ2</channel>
+<channel name="TL_PS_AQ3:current:ai">AQ3</channel>
+</group>
+
+<group name="G2">
+<unit >Current(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-PS</ChartTitle>
+</group>
+
+</groups>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL-BD-FCT01:BeamAmplitude">FCT01:BeamAmplitude</channel>
+<channel name="TL-BD-FCT01:BeamPulseWidth">FCT01:BeamPulseWidth</channel>
+<channel name="TL-BD-ICT01:BeamCharge">ICT01:BeamCharge</channel>
+</group>
+
+<group name="G2">
+<unit >FCTICT</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Trans-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL-BD-PRF01:Position_X">PRF01:Position_X</channel>
+<channel name="TL-BD-PRF01:Position_Y">PRF01:Position_Y</channel>
+<channel name="TL-BD-PRF01:Size_X">PRF01:Size_X</channel>
+<channel name="TL-BD-PRF01:Size_Y">PRF01:Size_Y</channel>
+<channel name="TL-BD-PRF02:Position_X">PRF02:Position_X</channel>
+<channel name="TL-BD-PRF02:Position_Y">PRF02:Position_Y</channel>
+<channel name="TL-BD-PRF02:Size_X">PRF02:Size_X</channel>
+<channel name="TL-BD-PRF02:Size_Y">PRF02:Size_Y</channel>
+<channel name="TL-BD-PRF03:Position_X">PRF03:Position_X</channel>
+<channel name="TL-BD-PRF03:Position_Y">PRF03:Position_Y</channel>
+<channel name="TL-BD-PRF03:Size_X">PRF03:Size_X</channel>
+<channel name="TL-BD-PRF03:Size_Y">PRF03:Size_Y</channel>
+</group>
+
+<group name="G2">
+<unit>PRF</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

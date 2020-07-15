@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL-CW:SM-1:ai">SwM-1</channel>
+<channel name="TL-CW:SM-2:ai">SwM-2</channel>
+<channel name="TL-CW:SM-3:ai">SwM-3</channel>
+<channel name="TL-CW:SM-4:ai">SwM-4</channel>
+<channel name="TL-CW:AQ1-1:ai">AQ1-1</channel>
+<channel name="TL-CW:AQ1-2:ai">AQ1-2</channel>
+<channel name="TL-CW:AQ2-1:ai">AQ2-1</channel>
+<channel name="TL-CW:AQ2-2:ai">AQ2-2</channel>
+<channel name="TL-CW:AQ3-1:ai">AQ3-1</channel>
+<channel name="TL-CW:AQ3-2:ai">AQ3-2</channel>
+<channel name="TL-CW:AM1-1:ai">AM1-1</channel>
+<channel name="TL-CW:AM1-2:ai">AM1-2</channel>
+<channel name="TL-CW:AM1-3:ai">AM1-3</channel>
+<channel name="TL-CW:AM1-4:ai">AM1-4</channel>
+<channel name="TL-CW:AM2-1:ai">AM2-1</channel>
+<channel name="TL-CW:AM2-2:ai">AM2-2</channel>
+<channel name="TL-CW:AM2-3:ai">AM2-3</channel>
+<channel name="TL-CW:AM2-4:ai">AM2-4</channel>
+<channel name="TL-CW:TIC1-1:ai">TIC1-1</channel>
+<channel name="TL-CW:TIC1-2:ai">TIC1-2</channel>
+<channel name="TL-CW:TIC1-3:ai">TIC1-3</channel>
+<channel name="TL-CW:TIC1-4:ai">TIC1-4</channel>
+<channel name="TL-CW:TIC2-1:ai">TIC2-1</channel>
+<channel name="TL-CW:TIC2-2:ai">TIC2-2</channel>
+<channel name="TL-CW:TIC2-3:ai">TIC2-3</channel>
+<channel name="TL-CW:TIC2-4:ai">TIC2-4</channel>
+<channel name="TL-CW:TIC3-1:ai">TIC3-1</channel>
+<channel name="TL-CW:TIC3-2:ai">TIC3-2</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Trans_Utility</ChartTitle>
+</group>
+
+</groups>

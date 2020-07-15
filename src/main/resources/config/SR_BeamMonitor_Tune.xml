@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="N9000AEP:TUNE:CALC:DATA1:TUNEH:FREQ_MONITOR">Peak_Freq_H</channel>
+<channel name="N9000AEP:TUNE:CALC:DATA1:TUNEH:AMP_MONITOR">Peak_Amp_H</channel>
+<channel name="N9000AEP:TUNE:H_MONITOR">Tune_H</channel>
+<channel name="N9000AEP:TUNE:CALC:DATA1:TUNEV:FREQ_MONITOR">Peak_Freq_V</channel>
+<channel name="N9000AEP:TUNE:CALC:DATA1:TUNEV:AMP_MONITOR">Peak_Amp_V</channel>
+<channel name="N9000AEP:TUNE:V_MONITOR">Tune_V</channel>
+</group>
+
+<group name="G2">
+<unit>Tune</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

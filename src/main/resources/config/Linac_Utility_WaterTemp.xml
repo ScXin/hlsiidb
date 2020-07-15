@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="CW:GRT1:PV:ai">GRT1</channel>
+<channel name="CW:GRT2:PV:ai">GRT2</channel>
+<channel name="CW:HLRT1:PV:ai">HLRT1</channel>
+<channel name="CW:HLRT2:PV:ai">HLRT2</channel>
+<channel name="CW:NHRT1:PV:ai">NHRT1</channel>
+<channel name="CW:NHRT2:PV:ai">NHRT2</channel>
+<channel name="CW:NHRT3:PV:ai">NHRT3</channel>
+<channel name="CW:NHRT4:PV:ai">NHRT4</channel>
+<channel name="CW:NHRT5:PV:ai">NRHT5</channel>
+<channel name="CW:NHRT6:PV:ai">NRHT6</channel>
+<channel name="CW:SRT1:PV:ai">SRT1</channel>
+<channel name="CW:SRT2:PV:ai">SRT2</channel>
+<channel name="CW:SYRT1:PV:ai">SYRT1</channel>
+<channel name="CW:SYRT2:PV:ai">SYRT2</channel>
+<channel name="CW:ZHRT10:PV:ai">ZHRT10</channel>
+<channel name="CW:ZHRT11:PV:ai">ZHRT11</channel>
+<channel name="CW:ZHRT1:PV:ai">ZHRT1</channel>
+<channel name="CW:ZHRT2:PV:ai">ZHRT2</channel>
+<channel name="CW:ZHRT3:PV:ai">ZHRT3</channel>
+<channel name="CW:ZHRT4:PV:ai">ZHRT4</channel>
+<channel name="CW:ZHRT5:PV:ai">ZHRT5</channel>
+<channel name="CW:ZHRT6:PV:ai">ZHRT6</channel>
+<channel name="CW:ZHRT7:PV:ai">ZHRT7</channel>
+<channel name="CW:ZHRT8:PV:ai">ZHRT8</channel>
+<channel name="CW:ZHRT9:PV:ai">ZHRT9</channel>
+<channel name="CW:ZLRT1:PV:ai">ZLRT1</channel>
+<channel name="CW:ZLRT2:PV:ai">ZLRT2</channel>
+<channel name="SR-CW:LQT-H1:ai">LQT-H1</channel>
+<channel name="SR-CW:LQT-T1:ai">LQT-T1</channel>
+<channel name="SR-CW:LinacTunnel-H1:ai">LinacTunnel-H1</channel>
+<channel name="SR-CW:LinacTunnel-T1:ai">LinacTunnel-T1</channel>
+</group>
+
+<group name="G2">
+<unit >WaterTemp(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac_Utility</ChartTitle>
+</group>
+
+</groups>
+

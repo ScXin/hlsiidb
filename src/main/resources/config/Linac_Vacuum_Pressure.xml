@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA_VA_VG1:A1:pressure:ai">CCG1-GUN</channel>
+<channel name="LA_VA_VG1:B1:pressure:ai">CCG2-BUN</channel>
+<channel name="LA_VA_VG2:A1:pressure:ai">CCG3-A1</channel>
+<channel name="LA_VA_VG2:B1:pressure:ai">CCG4-A2</channel>
+<channel name="LA_VA_VG3:A1:pressure:ai">CCG5-A3</channel>
+<channel name="LA_VA_VG3:B1:pressure:ai">CCG6-A4</channel>
+<channel name="LA_VA_VG10:A1:pressure:ai">CCGX1-NA2</channel>
+<channel name="LA_VA_VG4:A1:pressure:ai">CCG7-A5</channel>
+<channel name="LA_VA_VG4:B1:pressure:ai">CCG8-A6</channel>
+<channel name="LA_VA_VG5:A1:pressure:ai">CCG9-A7</channel>
+<channel name="LA_VA_VG5:B1:pressure:ai">CCG10-A8</channel>
+<channel name="LA_VA_VG6:A1:pressure:ai">CCG11-WG1</channel>
+<channel name="LA_VA_VG6:A2:pressure:ai">CCG12-WG2</channel>
+<channel name="LA_VA_VG6:B1:pressure:ai">CCGX2-NWG2</channel>
+<channel name="LA_VA_VG7:A1:pressure:ai">CCG13-WG3</channel>
+<channel name="LA_VA_VG7:A2:pressure:ai">CCG14-WG4</channel>
+<channel name="LA_VA_VG8:A1:pressure:ai">CCG15-WG5</channel>
+<channel name="LA_VA_VG8:A2:pressure:ai">CCG16-WG6</channel>
+<channel name="LA_VA_VG9:A1:pressure:ai">CCG17-WG7</channel>
+<channel name="LA_VA_VG9:A2:pressure:ai">CCG18-WG8</channel>
+</group>
+
+<group name="G2">
+<unit >Pressure(Pa)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-Vacuum</ChartTitle>
+</group>
+
+</groups>
+

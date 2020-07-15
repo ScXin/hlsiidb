@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="kly4:state1:e0:bi">BK</channel>
+<channel name="kly4:state1:e1:bi">Bias</channel>
+<channel name="kly4:state1:e2:bi">THY Fila</channel>
+<channel name="kly4:state1:e3:bi">THY Hyd</channel>
+<channel name="kly4:state1:e4:bi">WG Vac</channel>
+<channel name="kly4:state1:e5:bi">KLY Vac</channel>
+<channel name="kly4:state1:e6:bi">HV Status</channel>
+<channel name="kly4:state1:e7:bi">EOCL</channel>
+<channel name="kly4:state1:e8:bi">Bypass1</channel>
+<channel name="kly4:state1:e9:bi">THY G2</channel>
+<channel name="kly4:state1:e10:bi">Ready</channel>
+<channel name="kly4:state1:e11:bi">Sum Err</channel>
+<channel name="kly4:state1:e12:bi">THY Sum</channel>
+<channel name="kly4:state1:e13:bi">Focus Err</channel>
+<channel name="kly4:state1:e14:bi">Fun Err</channel>
+<channel name="kly4:state1:e15:bi">Water Flow</channel>
+<channel name="kly4:state2:e0:bi">HV Temp</channel>
+<channel name="kly4:state2:e1:bi">HV Load</channel>
+<channel name="kly4:state2:e2:bi">HV Sum</channel>
+<channel name="kly4:state2:e3:bi">BK2</channel>
+<channel name="kly4:state2:e4:bi">BK3</channel>
+<channel name="kly4:state2:e5:bi">KLY Fila</channel>
+<channel name="kly4:state2:e6:bi">LV Status</channel>
+<channel name="kly4:state2:e7:bi">No Trig</channel>
+<channel name="kly4:state2:e8:bi">Gate</channel>
+<channel name="kly4:state2:e9:bi">Focus Temp</channel>
+<channel name="kly4:state2:e10:bi">Window Temp</channel>
+<channel name="kly4:state2:e11:bi">BK4</channel>
+<channel name="kly4:state2:e12:bi">BK5</channel>
+<channel name="kly4:state2:e13:bi">BK6</channel>
+<channel name="kly4:state2:e14:bi">KLY Water</channel>
+<channel name="kly4:state2:e15:bi">Focus Water</channel>
+
+</group>
+
+<group name="G2">
+<unit >Error</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-Klystron</ChartTitle>
+</group>
+
+</groups>
+

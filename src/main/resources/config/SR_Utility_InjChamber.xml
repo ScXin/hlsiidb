@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-CW:K1-1:T:ai">K1-1</channel>
+<channel name="SR-CW:K1-2:T:ai">K1-2</channel>
+<channel name="SR-CW:K1-3:T:ai">K1-3</channel>
+<channel name="SR-CW:K1-4:T:ai">K1-4</channel>
+<channel name="SR-CW:K2-1:T:ai">K2-1</channel>
+<channel name="SR-CW:K2-2:T:ai">K2-2</channel>
+<channel name="SR-CW:K2-3:T:ai">K2-3</channel>
+<channel name="SR-CW:K2-4:T:ai">K2-4</channel>
+<channel name="SR-CW:K3-1:T:ai">K3-1</channel>
+<channel name="SR-CW:K3-2:T:ai">K3-2</channel>
+<channel name="SR-CW:K3-3:T:ai">K3-3</channel>
+<channel name="SR-CW:K3-4:T:ai">K3-4</channel>
+<channel name="SR-CW:K4-1:T:ai">K4-1</channel>
+<channel name="SR-CW:K4-2:T:ai">K4-2</channel>
+<channel name="SR-CW:K4-3:T:ai">K4-3</channel>
+<channel name="SR-CW:K4-4:T:ai">K4-4</channel>
+<channel name="SR-CW:INJ-CMB1-UP:T:ai">INJ-CMB1-UP</channel>
+<channel name="SR-CW:INJ-CMB1-DN:T:ai">INJ-CMB1-DN</channel>
+<channel name="SR-CW:INJ-CMB2-UP:T:ai">INJ-CMB2-UP</channel>
+<channel name="SR-CW:INJ-CMB2-DN:T:ai">INJ-CMB2-DN</channel>
+<channel name="SR-CW:INJ-CMB3-UP:T:ai">INJ-CMB3-UP</channel>
+<channel name="SR-CW:INJ-CMB3-DN:T:ai">INJ-CMB3-DN</channel>
+<channel name="SR-CW:INJ-CMB4-UP:T:ai">INJ-CMB4-UP</channel>
+<channel name="SR-CW:INJ-CMB4-DN:T:ai">INJ-CMB4-DN</channel>
+<channel name="SR-CW:INJ-CMB5-UP:T:ai">INJ-CMB5-UP</channel>
+<channel name="SR-CW:INJ-CMB5-DN:T:ai">INJ-CMB5-DN</channel>
+<channel name="SR-CW:INJ-CMB6-UP:T:ai">INJ-CMB6-UP</channel>
+<channel name="SR-CW:INJ-CMB6-DN:T:ai">INJ-CMB6-DN</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Utility</ChartTitle>
+</group>
+
+</groups>

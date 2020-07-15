@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-CW:B1-T1:ai">B1-T1</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Utility</ChartTitle>
+</group>
+
+</groups>

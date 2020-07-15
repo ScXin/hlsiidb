@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-CW:LQ1-1:ai">Q1-1</channel>
+<channel name="LA-CW:LQ1-2:ai">Q1-2</channel>
+<channel name="LA-CW:LQ2-1:ai">Q2-1</channel>
+<channel name="LA-CW:LQ2-2:ai">Q2-2</channel>
+<channel name="LA-CW:LQ3-1:ai">Q3-1</channel>
+<channel name="LA-CW:LQ3-2:ai">Q3-2</channel>
+<channel name="LA-CW:LQ4-1:ai">Q4-1</channel>
+<channel name="LA-CW:LQ4-2:ai">Q4-2</channel>
+<channel name="LA-CW:LQ5-1:ai">Q5-1</channel>
+<channel name="LA-CW:LQ5-2:ai">Q5-2</channel>
+<channel name="LA-CW:LQ6-1:ai">Q6-1</channel>
+<channel name="LA-CW:LQ6-2:ai">Q6-2</channel>
+<channel name="LA-CW:LQ7-1:ai">Q7-1</channel>
+<channel name="LA-CW:LQ7-2:ai">Q7-2</channel>
+<channel name="LA-CW:LQ8-1:ai">Q8-1</channel>
+<channel name="LA-CW:LQ8-2:ai">Q8-2</channel>
+<channel name="LA-CW:LQ9-1:ai">Q9-1</channel>
+<channel name="LA-CW:LQ9-2:ai">Q9-2</channel>
+<channel name="LA-CW:LQ9-3:ai">Q9-3</channel>
+<channel name="LA-CW:LQ9-4:ai">Q9-4</channel>
+<channel name="LA-CW:LQ10-1:ai">Q10-1</channel>
+<channel name="LA-CW:LQ10-2:ai">Q10-2</channel>
+<channel name="LA-CW:LQ10-3:ai">Q10-3</channel>
+<channel name="LA-CW:LQ10-4:ai">Q10-4</channel>
+<channel name="LA-CW:LQ11-1:ai">Q11-1</channel>
+<channel name="LA-CW:LQ11-2:ai">Q11-2</channel>
+<channel name="LA-CW:LQ12-1:ai">Q12-1</channel>
+<channel name="LA-CW:LQ12-2:ai">Q12-2</channel>
+</group>
+
+<group name="G2">
+<unit >Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac_Utility</ChartTitle>
+</group>
+
+</groups>
+

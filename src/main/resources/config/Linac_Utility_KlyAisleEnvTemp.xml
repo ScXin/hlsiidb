@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-CW:SHJ-T1:ai">SHJ-T1</channel>
+<channel name="LA-CW:SHJ-T2:ai">SHJ-T2</channel>
+<channel name="LA-CW:SHJ-T3:ai">SHJ-T3</channel>
+<channel name="LA-CW:SHJ-T4:ai">SHJ-T4</channel>
+<channel name="LA-CW:SHJ-T5:ai">SHJ-T5</channel>
+<channel name="LA-CW:SHJ-T6:ai">SHJ-T6</channel>
+<channel name="LA-CW:SHJ-T7:ai">SHJ-T7</channel>
+<channel name="LA-CW:SHJ-T8:ai">SHJ-T8</channel>
+</group>
+
+<group name="G2">
+<unit >KlyAisleEnvTemp(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac_Utility</ChartTitle>
+</group>
+
+</groups>
+

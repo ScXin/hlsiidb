@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="RNG:ORB:FDBK:VERTICAL">yFDBKsw</channel>
+<channel name="RNG:ORB:FDBK:HORIZONTAL">xFDBKsw</channel>
+</group>
+
+<group name="G2">
+<unit>FDBK</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

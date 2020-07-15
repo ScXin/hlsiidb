@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="CW:GRT1_F:PV:ai">GRT1</channel>
+<channel name="CW:GRT2_F:PV:ai">GRT2</channel>
+<channel name="CW:HLRT1_F:PV:ai">HLRT1</channel>
+<channel name="CW:HLRT2_F:PV:ai">HLRT2</channel>
+<channel name="CW:NHRT1_F:PV:ai">NHRT1</channel>
+<channel name="CW:NHRT2_F:PV:ai">NHRT2</channel>
+<channel name="CW:NHRT3_F:PV:ai">NHRT3</channel>
+<channel name="CW:NHRT4_F:PV:ai">NHRT4</channel>
+<channel name="CW:NHRT5_F:PV:ai">NRHT5</channel>
+<channel name="CW:NHRT6_F:PV:ai">NRHT6</channel>
+<channel name="CW:SRT1_F:PV:ai">SRT1</channel>
+<channel name="CW:SRT2_F:PV:ai">SRT2</channel>
+<channel name="CW:SYRT1_F:PV:ai">SYRT1</channel>
+<channel name="CW:SYRT2_F:PV:ai">SYRT2</channel>
+<channel name="CW:ZHRT1_F:PV:ai">ZHRT1</channel>
+<channel name="CW:ZHRT2_F:PV:ai">ZHRT2</channel>
+<channel name="CW:ZHRT3_F:PV:ai">ZHRT3</channel>
+<channel name="CW:ZHRT4_F:PV:ai">ZHRT4</channel>
+<channel name="CW:ZHRT5_F:PV:ai">ZHRT5</channel>
+<channel name="CW:ZHRT6_F:PV:ai">ZHRT6</channel>
+<channel name="CW:ZHRT7_F:PV:ai">ZHRT7</channel>
+<channel name="CW:ZHRT8_F:PV:ai">ZHRT8</channel>
+<channel name="CW:ZHRT9_F:PV:ai">ZHRT9</channel>
+<channel name="CW:ZHRT10_F:PV:ai">ZHRT10</channel>
+<channel name="CW:ZHRT11_F:PV:ai">ZHRT11</channel>
+<channel name="CW:ZLRT1_F:PV:ai">ZLRT1</channel>
+<channel name="CW:ZLRT2_F:PV:ai">ZLRT2</channel>
+</group>
+
+<group name="G2">
+<unit >ValvePosition(percent)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac_Utility</ChartTitle>
+</group>
+
+</groups>
+

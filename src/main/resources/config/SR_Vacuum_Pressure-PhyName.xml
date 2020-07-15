@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-VA-PRESSURE:IJ">IJ</channel>
+<channel name="SR-VA-PRESSURE:B1">B1</channel>
+<channel name="SR-VA-PRESSURE:L1">L1</channel>
+<channel name="SR-VA-PRESSURE:QPU">QPU</channel>
+<channel name="SR-VA-PRESSURE:B2">B2</channel>
+<channel name="SR-VA-PRESSURE:SWG">SWG</channel>
+<channel name="SR-VA-PRESSURE:B3">B3</channel>
+<channel name="SR-VA-PRESSURE:WIG">WIG</channel>
+<channel name="SR-VA-PRESSURE:L2">L2</channel>
+<channel name="SR-VA-PRESSURE:B4">B4</channel>
+<channel name="SR-VA-PRESSURE:U92">U92</channel>
+<channel name="SR-VA-PRESSURE:B5">B5</channel>
+<channel name="SR-VA-PRESSURE:IVU">IVU</channel>
+<channel name="SR-VA-PRESSURE:L3">L3</channel>
+<channel name="SR-VA-PRESSURE:B6">B6</channel>
+<channel name="SR-VA-PRESSURE:EPU">EPU</channel>
+<channel name="SR-VA-PRESSURE:B7">B7</channel>
+<channel name="SR-VA-PRESSURE:RF">RF</channel>
+<channel name="SR-VA-PRESSURE:HHC">HHC</channel>
+<channel name="SR-VA-PRESSURE:B8">B8</channel>
+<channel name="ring-va:pressure2:calc">AVG</channel>
+</group>
+
+<group name="G2">
+<unit>Pressure(Pa)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Vacuum</ChartTitle>
+</group>
+
+
+</groups>

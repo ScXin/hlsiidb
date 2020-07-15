@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+	<channel name="SR-VA-sip1:current:ai">sip1</channel>
+    	<channel name="SR-VA-sip2:current:ai">sip2</channel>
+	<channel name="SR-VA-sip3:current:ai">sip3</channel>
+	<channel name="SR-VA-sip4:current:ai">sip4</channel>
+	<channel name="SR-VA-sip5:current:ai">sip5</channel>
+	<channel name="SR-VA-sip6:current:ai">sip6</channel>
+	<channel name="SR-VA-sip7:current:ai">sip7</channel>
+	<channel name="SR-VA-sip8:current:ai">sip8</channel>
+	<channel name="SR-VA-sip9:current:ai">sip9</channel>
+	<channel name="SR-VA-sip10:current:ai">sip10</channel>
+	<channel name="SR-VA-sip11:current:ai">sip11</channel>
+	<channel name="SR-VA-sip12:current:ai">sip12</channel>
+	<channel name="SR-VA-sip13:current:ai">sip13</channel>
+	<channel name="SR-VA-sip14:current:ai">sip14</channel>
+	<channel name="SR-VA-sip15:current:ai">sip15</channel>
+	<channel name="SR-VA-sip16:current:ai">sip16</channel>
+	<channel name="SR-VA-sip17:current:ai">sip17</channel>
+	<channel name="SR-VA-sip18:current:ai">sip18</channel>
+	<channel name="SR-VA-sip19:current:ai">sip19</channel>
+	<channel name="SR-VA-sip20:current:ai">sip20</channel>
+	<channel name="SR-VA-sip21:current:ai">sip21</channel>
+	<channel name="SR-VA-sip22:current:ai">sip22</channel>
+	<channel name="SR-VA-sip23:current:ai">sip23</channel>
+	<channel name="SR-VA-sip24:current:ai">sip24</channel>
+	<channel name="SR-VA-sip25:current:ai">sip25</channel>
+	<channel name="SR-VA-sip26:current:ai">sip26</channel>
+	<channel name="SR-VA-sip27:current:ai">sip27</channel>
+	<channel name="SR-VA-sip28:current:ai">sip28</channel>
+	<channel name="SR-VA-sip29:current:ai">sip29</channel>
+	<channel name="SR-VA-sip30:current:ai">sip30</channel>
+	<channel name="SR-VA-sip31:current:ai">sip31</channel>
+	<channel name="SR-VA-sip32:current:ai">sip32</channel>
+	<channel name="SR-VA-sip33:current:ai">sip33</channel>
+	<channel name="SR-VA-sip34:current:ai">sip34</channel>
+	<channel name="SR-VA-sip35:current:ai">sip35</channel>
+	<channel name="SR-VA-sip36:current:ai">sip36</channel>
+	<channel name="SR-VA-sip37:current:ai">sip37</channel>
+	<channel name="SR-VA-sip38:current:ai">sip38</channel>
+	<channel name="SR-VA-sip39:current:ai">sip39</channel>
+	<channel name="SR-VA-sip40:current:ai">sip40</channel>
+	<channel name="SR-VA-sip41:current:ai">sip41</channel>
+	<channel name="SR-VA-sip42:current:ai">sip42</channel>
+	<channel name="SR-VA-sip43:current:ai">sip43</channel>
+	<channel name="SR-VA-sip44:current:ai">sip44</channel>
+	<channel name="SR-VA-sip45:current:ai">sip45</channel>
+</group>
+
+<group name="G2">
+<unit>Sip(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-Vacuum</ChartTitle>
+</group>
+
+</groups>
+

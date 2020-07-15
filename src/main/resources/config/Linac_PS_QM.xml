@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA_PS_Q1:current:ai">Q1</channel>
+<channel name="LA_PS_Q2:current:ai">Q2</channel>
+<channel name="LA_PS_Q3:current:ai">Q3</channel>
+<channel name="LA_PS_Q4:current:ai">Q4</channel>
+<channel name="LA_PS_Q5:current:ai">Q5</channel>
+<channel name="LA_PS_Q6:current:ai">Q6</channel>
+<channel name="LA_PS_Q7:current:ai">Q7</channel>
+<channel name="LA_PS_Q8:current:ai">Q8</channel>
+<channel name="LA_PS_Q9:current:ai">Q9</channel>
+<channel name="LA_PS_Q10:current:ai">Q10</channel>
+<channel name="LA_PS_Q11:current:ai">Q11</channel>
+<channel name="LA_PS_Q12:current:ai">Q12</channel>
+</group>
+
+<group name="G2">
+<unit >Current(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-PS</ChartTitle>
+</group>
+
+</groups>
+

@@ -1,0 +1,210 @@
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10086
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:31:49 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10086. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10102
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:31:59 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10102. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10120
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:32:14 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10120. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10135
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:32:29 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10135. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10152
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:32:44 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10152. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10166
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:32:59 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10166. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10183
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:33:14 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10183. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10197
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:33:29 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10197. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10212
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:33:44 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10212. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10227
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:33:59 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10227. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10242
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:34:14 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10242. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10257
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:34:29 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10257. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10272
+@@@ @@@ @@@ @@@ @@@
+Traceback (most recent call last):
+  File "./sample.py", line 35, in <module>
+    f3.write("lifetime=%.2f hours" %(pv2.value))
+TypeError: float argument required, not NoneType
+@@@ Current time: Tue Oct 29 09:34:44 2013
+@@@ Child process is shutting down, a new one will be restarted shortly
+@@@ ^R or ^X restarts the child, ^Q quits the server
+
+@@@ @@@ @@@ @@@ @@@
+@@@ Received a sigChild for process 10272. Normal exit status = 1
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10286
+@@@ @@@ @@@ @@@ @@@
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10303
+@@@ @@@ @@@ @@@ @@@
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 10607
+@@@ @@@ @@@ @@@ @@@
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 12928
+@@@ @@@ @@@ @@@ @@@
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 4465
+@@@ @@@ @@@ @@@ @@@
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 24247
+@@@ @@@ @@@ @@@ @@@
+@@@ Restarting child "sampleBeanCurrent"
+@@@    (as ./sample.py)
+@@@ The PID of new child "sampleBeanCurrent" is: 26283
+@@@ @@@ @@@ @@@ @@@

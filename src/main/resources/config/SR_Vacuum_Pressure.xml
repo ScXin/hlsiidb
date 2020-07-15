@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-VA-VG1:ch2:pressure:ai">IJ</channel>
+<channel name="SR-VA-VG1:ch4:pressure:ai">B1</channel>
+<channel name="SR-VA-VG2:ch2:pressure:ai">L1</channel>
+<channel name="SR-VA-VG2:ch4:pressure:ai">QPU</channel>
+<channel name="SR-VA-VG3:ch2:pressure:ai">B2</channel>
+<channel name="SR-VA-VG3:ch4:pressure:ai">SWG</channel>
+<channel name="SR-VA-VG4:ch2:pressure:ai">B3</channel>
+<channel name="SR-VA-VG4:ch4:pressure:ai">WIG</channel>
+<channel name="SR-VA-VG5:ch2:pressure:ai">L2</channel>
+<channel name="SR-VA-VG5:ch4:pressure:ai">B4</channel>
+<channel name="SR-VA-VG6:ch2:pressure:ai">U92</channel>
+<channel name="SR-VA-VG6:ch4:pressure:ai">B5</channel>
+<channel name="SR-VA-VG7:ch2:pressure:ai">IVU</channel>
+<channel name="SR-VA-VG7:ch4:pressure:ai">L3</channel>
+<channel name="SR-VA-VG8:ch2:pressure:ai">B6</channel>
+<channel name="SR-VA-VG8:ch4:pressure:ai">EPU</channel>
+<channel name="SR-VA-VG9:ch2:pressure:ai">B7</channel>
+<channel name="SR-VA-VG9:ch4:pressure:ai">RF</channel>
+<channel name="SR-VA-VG10:ch2:pressure:ai">HHC</channel>
+<channel name="SR-VA-VG10:ch4:pressure:ai">B8</channel>
+<channel name="ring-va:pressure2:calc">AVG</channel>
+</group>
+
+<group name="G2">
+<unit>Pressure(Pa)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Vacuum</ChartTitle>
+</group>
+
+
+</groups>

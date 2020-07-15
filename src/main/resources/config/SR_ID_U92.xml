@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="ivu92:Gap_Read">Gap</channel>
+</group>
+
+<group name="G2">
+<unit>Gap(mm)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_ID</ChartTitle>
+</group>
+
+</groups>

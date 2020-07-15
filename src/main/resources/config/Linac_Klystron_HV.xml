@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="kly1:HV:ao">kly1-ao</channel>
+<channel name="kly1:HV:ai">kly1-ai</channel>
+<channel name="kly2:HV:ao">kly2-ao</channel>
+<channel name="kly2:HV:ai">kly2-ai</channel>
+<channel name="kly3:HV:ao">kly3-ao</channel>
+<channel name="kly3:HV:ai">kly3-ai</channel>
+<channel name="kly4:HV:ao">kly4-ao</channel>
+<channel name="kly4:HV:ai">kly4-ai</channel>
+<channel name="kly5:HV:ao">kly5-ao</channel>
+<channel name="kly5:HV:ai">kly5-ai</channel>
+<channel name="kly6:HV:ao">kly6-ao</channel>
+<channel name="kly6:HV:ai">kly6-ai</channel>
+<channel name="kly7:HV:ao">kly7-ao</channel>
+<channel name="kly7:HV:ai">kly7-ai</channel>
+<channel name="kly8:HV:ao">kly8-ao</channel>
+<channel name="kly8:HV:ai">kly8-ai</channel>
+
+</group>
+
+<group name="G2">
+<unit >HV(KV)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-Klystrom</ChartTitle>
+</group>
+</groups>
+

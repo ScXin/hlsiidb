@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-BD-ENY:E0">E0</channel>
+<channel name="LA-BD-ENY:FWHM">FWHM</channel>
+</group>
+
+<group name="G2">
+<unit >MeV</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

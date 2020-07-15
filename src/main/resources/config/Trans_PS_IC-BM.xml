@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL_PS_HIC1:current:ai">HIC1</channel>
+<channel name="TL_PS_HIC2:current:ai">HIC2</channel>
+<channel name="TL_PS_HIC3:current:ai">HIC3</channel>
+<channel name="TL_PS_VIC1:current:ai">VIC1</channel>
+<channel name="TL_PS_VIC2:current:ai">VIC2</channel>
+<channel name="TL_PS_VIC3:current:ai">VIC3</channel>
+<channel name="TL_PS_BM1256:current:ai">BM1256</channel>
+<channel name="TL_PS_BC1:current:ai">BC1</channel>
+<channel name="TL_PS_BC2:current:ai">BC2</channel>
+<channel name="TL_PS_BC5:current:ai">BC5</channel>
+<channel name="TL_PS_BC6:current:ai">BC6</channel>
+<channel name="TL_PS_BM34:current:ai">BM34</channel>
+</group>
+
+<group name="G2">
+<unit >Current(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Trans-PS</ChartTitle>
+</group>
+
+</groups>
+

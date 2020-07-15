@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-CW:INJ-BPM1-UP:T:ai">INJ-BPM1-UP</channel>
+<channel name="SR-CW:INJ-BPM1-DN:T:ai">INJ-BPM1-DN</channel>
+<channel name="SR-CW:INJ-BPM2-UP:T:ai">INJ-BPM2-UP</channel>
+<channel name="SR-CW:INJ-BPM2-DN:T:ai">INJ-BPM2-DN</channel>
+<channel name="SR-CW:INJ-BPM3-UP:T:ai">INJ-BPM3-UP</channel>
+<channel name="SR-CW:INJ-BPM3-DN:T:ai">INJ-BPM3-DN</channel>
+<channel name="SR-CW:INJ-BPM4-UP:T:ai">INJ-BPM4-UP</channel>
+<channel name="SR-CW:INJ-BPM4-DN:T:ai">INJ-BPM4-DN</channel>
+<channel name="SR-CW:QPU-BPM1-UP:T:ai">QPU-BPM1-UP</channel>
+<channel name="SR-CW:QPU-BPM1-DN:T:ai">QPU-BPM1-DN</channel>
+<channel name="SR-CW:QPU-BPM2-UP:T:ai">QPU-BPM2-UP</channel>
+<channel name="SR-CW:QPU-BPM2-DN:T:ai">QPU-BPM2-DN</channel>
+<channel name="SR-CW:QPU-BPM3-UP:T:ai">QPU-BPM3-UP</channel>
+<channel name="SR-CW:QPU-BPM3-DN:T:ai">QPU-BPM3-DN</channel>
+<channel name="SR-CW:QPU-BPM4-UP:T:ai">QPU-BPM4-UP</channel>
+<channel name="SR-CW:QPU-BPM4-DN:T:ai">QPU-BPM4-DN</channel>
+<channel name="SR-CW:SSS-BPM1-UP:T:ai">SSS-BPM1-UP</channel>
+<channel name="SR-CW:SSS-BPM1-DN:T:ai">SSS-BPM1-DN</channel>
+<channel name="SR-CW:SSS-BPM2-UP:T:ai">SSS-BPM2-UP</channel>
+<channel name="SR-CW:SSS-BPM2-DN:T:ai">SSS-BPM2-DN</channel>
+<channel name="SR-CW:SSS-BPM3-UP:T:ai">SSS-BPM3-UP</channel>
+<channel name="SR-CW:SSS-BPM3-DN:T:ai">SSS-BPM3-DN</channel>
+<channel name="SR-CW:SSS-BPM4-UP:T:ai">SSS-BPM4-UP</channel>
+<channel name="SR-CW:SSS-BPM4-DN:T:ai">SSS-BPM4-DN</channel>
+<channel name="SR-CW:WIG-BPM1-UP:T:ai">WIG-BPM1-UP</channel>
+<channel name="SR-CW:WIG-BPM1-DN:T:ai">WIG-BPM1-DN</channel>
+<channel name="SR-CW:WIG-BPM2-UP:T:ai">WIG-BPM2-UP</channel>
+<channel name="SR-CW:WIG-BPM2-DN:T:ai">WIG-BPM2-DN</channel>
+<channel name="SR-CW:WIG-BPM3-UP:T:ai">WIG-BPM3-UP</channel>
+<channel name="SR-CW:WIG-BPM3-DN:T:ai">WIG-BPM3-DN</channel>
+<channel name="SR-CW:WIG-BPM4-UP:T:ai">WIG-BPM4-UP</channel>
+<channel name="SR-CW:WIG-BPM4-DN:T:ai">WIG-BPM4-DN</channel>
+<channel name="SR-CW:U92-BPM1-UP:T:ai">U92-BPM1-UP</channel>
+<channel name="SR-CW:U92-BPM1-DN:T:ai">U92-BPM1-DN</channel>
+<channel name="SR-CW:U92-BPM2-UP:T:ai">U92-BPM2-UP</channel>
+<channel name="SR-CW:U92-BPM2-DN:T:ai">U92-BPM2-DN</channel>
+<channel name="SR-CW:U92-BPM3-UP:T:ai">U92-BPM3-UP</channel>
+<channel name="SR-CW:U92-BPM3-DN:T:ai">U92-BPM3-DN</channel>
+<channel name="SR-CW:U92-BPM4-UP:T:ai">U92-BPM4-UP</channel>
+<channel name="SR-CW:U92-BPM4-DN:T:ai">U92-BPM4-DN</channel>
+<channel name="SR-CW:IVU-BPM1-UP:T:ai">IVU-BPM1-UP</channel>
+<channel name="SR-CW:IVU-BPM1-DN:T:ai">IVU-BPM1-DN</channel>
+<channel name="SR-CW:IVU-BPM2-UP:T:ai">IVU-BPM2-UP</channel>
+<channel name="SR-CW:IVU-BPM2-DN:T:ai">IVU-BPM2-DN</channel>
+<channel name="SR-CW:IVU-BPM3-UP:T:ai">IVU-BPM3-UP</channel>
+<channel name="SR-CW:IVU-BPM3-DN:T:ai">IVU-BPM3-DN</channel>
+<channel name="SR-CW:IVU-BPM4-UP:T:ai">IVU-BPM4-UP</channel>
+<channel name="SR-CW:IVU-BPM4-DN:T:ai">IVU-BPM4-DN</channel>
+<channel name="SR-CW:EPU-BPM1-UP:T:ai">EPU-BPM1-UP</channel>
+<channel name="SR-CW:EPU-BPM1-DN:T:ai">EPU-BPM1-DN</channel>
+<channel name="SR-CW:EPU-BPM2-UP:T:ai">EPU-BPM2-UP</channel>
+<channel name="SR-CW:EPU-BPM2-DN:T:ai">EPU-BPM2-DN</channel>
+<channel name="SR-CW:EPU-BPM3-UP:T:ai">EPU-BPM3-UP</channel>
+<channel name="SR-CW:EPU-BPM3-DN:T:ai">EPU-BPM3-DN</channel>
+<channel name="SR-CW:EPU-BPM4-UP:T:ai">EPU-BPM4-UP</channel>
+<channel name="SR-CW:EPU-BPM4-DN:T:ai">EPU-BPM4-DN</channel>
+<channel name="SR-CW:RFC-BPM1-UP:T:ai">RFC-BPM1-UP</channel>
+<channel name="SR-CW:RFC-BPM1-DN:T:ai">RFC-BPM1-DN</channel>
+<channel name="SR-CW:RFC-BPM2-UP:T:ai">RFC-BPM2-UP</channel>
+<channel name="SR-CW:RFC-BPM2-DN:T:ai">RFC-BPM2-DN</channel>
+<channel name="SR-CW:RFC-BPM3-UP:T:ai">RFC-BPM3-UP</channel>
+<channel name="SR-CW:RFC-BPM3-DN:T:ai">RFC-BPM3-DN</channel>
+<channel name="SR-CW:RFC-BPM4-UP:T:ai">RFC-BPM4-UP</channel>
+<channel name="SR-CW:RFC-BPM4-DN:T:ai">RFC-BPM4-DN</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Utility</ChartTitle>
+</group>
+
+</groups>

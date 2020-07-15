@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-CW:BM1-1:ai">BM1-1</channel>
+<channel name="SR-CW:BM1-2:ai">BM1-2</channel>
+<channel name="SR-CW:BM1-3:ai">BM1-3</channel>
+<channel name="SR-CW:BM1-4:ai">BM1-4</channel>
+<channel name="SR-CW:BM1-5:ai">BM1-5</channel>
+<channel name="SR-CW:BM1-6:ai">BM1-6</channel>
+<channel name="SR-CW:BM2-1:ai">BM2-1</channel>
+<channel name="SR-CW:BM2-2:ai">BM2-2</channel>
+<channel name="SR-CW:BM2-3:ai">BM2-3</channel>
+<channel name="SR-CW:BM2-4:ai">BM2-4</channel>
+<channel name="SR-CW:BM2-5:ai">BM2-5</channel>
+<channel name="SR-CW:BM2-6:ai">BM2-6</channel>
+<channel name="SR-CW:BM3-1:ai">BM3-1</channel>
+<channel name="SR-CW:BM3-2:ai">BM3-2</channel>
+<channel name="SR-CW:BM3-3:ai">BM3-3</channel>
+<channel name="SR-CW:BM3-4:ai">BM3-4</channel>
+<channel name="SR-CW:BM3-5:ai">BM3-5</channel>
+<channel name="SR-CW:BM3-6:ai">BM3-6</channel>
+<channel name="SR-CW:BM4-1:ai">BM4-1</channel>
+<channel name="SR-CW:BM4-2:ai">BM4-2</channel>
+<channel name="SR-CW:BM4-3:ai">BM4-3</channel>
+<channel name="SR-CW:BM4-4:ai">BM4-4</channel>
+<channel name="SR-CW:BM4-5:ai">BM4-5</channel>
+<channel name="SR-CW:BM4-6:ai">BM4-6</channel>
+<channel name="SR-CW:BM5-1:ai">BM5-1</channel>
+<channel name="SR-CW:BM5-2:ai">BM5-2</channel>
+<channel name="SR-CW:BM5-3:ai">BM5-3</channel>
+<channel name="SR-CW:BM5-4:ai">BM5-4</channel>
+<channel name="SR-CW:BM5-5:ai">BM5-5</channel>
+<channel name="SR-CW:BM5-6:ai">BM5-6</channel>
+<channel name="SR-CW:BM6-1:ai">BM6-1</channel>
+<channel name="SR-CW:BM6-2:ai">BM6-2</channel>
+<channel name="SR-CW:BM6-3:ai">BM6-3</channel>
+<channel name="SR-CW:BM6-4:ai">BM6-4</channel>
+<channel name="SR-CW:BM6-5:ai">BM6-5</channel>
+<channel name="SR-CW:BM6-6:ai">BM6-6</channel>
+<channel name="SR-CW:BM7-1:ai">BM7-1</channel>
+<channel name="SR-CW:BM7-2:ai">BM7-2</channel>
+<channel name="SR-CW:BM7-3:ai">BM7-3</channel>
+<channel name="SR-CW:BM7-4:ai">BM7-4</channel>
+<channel name="SR-CW:BM7-5:ai">BM7-5</channel>
+<channel name="SR-CW:BM7-6:ai">BM7-6</channel>
+<channel name="SR-CW:BM8-1:ai">BM8-1</channel>
+<channel name="SR-CW:BM8-2:ai">BM8-2</channel>
+<channel name="SR-CW:BM8-3:ai">BM8-3</channel>
+<channel name="SR-CW:BM8-4:ai">BM8-4</channel>
+<channel name="SR-CW:BM8-5:ai">BM8-5</channel>
+<channel name="SR-CW:BM8-6:ai">BM8-6</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Utility</ChartTitle>
+</group>
+
+
+</groups>

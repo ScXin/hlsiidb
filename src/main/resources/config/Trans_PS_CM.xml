@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL_PS_HC1:current:ai">HC1</channel>
+<channel name="TL_PS_HC2:current:ai">HC2</channel>
+<channel name="TL_PS_HC3:current:ai">HC3</channel>
+<channel name="TL_PS_HC4:current:ai">HC4</channel>
+<channel name="TL_PS_HC5:current:ai">HC5</channel>
+<channel name="TL_PS_HC6:current:ai">HC6</channel>
+<channel name="TL_PS_HC7:current:ai">HC7</channel>
+<channel name="TL_PS_HC8:current:ai">HC8</channel>
+<channel name="TL_PS_HC9:current:ai">HC9</channel>
+<channel name="TL_PS_VC1:current:ai">VC1</channel>
+<channel name="TL_PS_VC2:current:ai">VC2</channel>
+<channel name="TL_PS_VC3:current:ai">VC3</channel>
+<channel name="TL_PS_VC4:current:ai">VC4</channel>
+<channel name="TL_PS_VC5:current:ai">VC5</channel>
+<channel name="TL_PS_VC6:current:ai">VC6</channel>
+<channel name="TL_PS_VC7:current:ai">VC7</channel>
+<channel name="TL_PS_VC8:current:ai">VC8</channel>
+<channel name="TL_PS_VC9:current:ai">VC9</channel>
+</group>
+
+<group name="G2">
+<unit >Current(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Trans-PS</ChartTitle>
+</group>
+
+</groups>
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-CW:Q1-1:ai">QM1-1</channel>
+<channel name="SR-CW:Q1-2:ai">QM1-2</channel>
+<channel name="SR-CW:Q1-3:ai">QM1-3</channel>
+<channel name="SR-CW:Q1-4:ai">QM1-4</channel>
+<channel name="SR-CW:Q2-1:ai">QM2-1</channel>
+<channel name="SR-CW:Q2-2:ai">QM2-2</channel>
+<channel name="SR-CW:Q2-3:ai">QM2-3</channel>
+<channel name="SR-CW:Q2-4:ai">QM2-4</channel>
+<channel name="SR-CW:Q3-1:ai">QM3-1</channel>
+<channel name="SR-CW:Q3-2:ai">QM3-2</channel>
+<channel name="SR-CW:Q3-3:ai">QM3-3</channel>
+<channel name="SR-CW:Q3-4:ai">QM3-4</channel>
+<channel name="SR-CW:Q4-1:ai">QM4-1</channel>
+<channel name="SR-CW:Q4-2:ai">QM4-2</channel>
+<channel name="SR-CW:Q4-3:ai">QM4-3</channel>
+<channel name="SR-CW:Q4-4:ai">QM4-4</channel>
+<channel name="SR-CW:Q5-1:ai">QM5-1</channel>
+<channel name="SR-CW:Q5-2:ai">QM5-2</channel>
+<channel name="SR-CW:Q5-3:ai">QM5-3</channel>
+<channel name="SR-CW:Q5-4:ai">QM5-4</channel>
+<channel name="SR-CW:Q6-1:ai">QM6-1</channel>
+<channel name="SR-CW:Q6-2:ai">QM6-2</channel>
+<channel name="SR-CW:Q6-3:ai">QM6-3</channel>
+<channel name="SR-CW:Q6-4:ai">QM6-4</channel>
+<channel name="SR-CW:Q7-1:ai">QM7-1</channel>
+<channel name="SR-CW:Q7-2:ai">QM7-2</channel>
+<channel name="SR-CW:Q7-3:ai">QM7-3</channel>
+<channel name="SR-CW:Q7-4:ai">QM7-4</channel>
+<channel name="SR-CW:Q8-1:ai">QM8-1</channel>
+<channel name="SR-CW:Q8-2:ai">QM8-2</channel>
+<channel name="SR-CW:Q8-3:ai">QM8-3</channel>
+<channel name="SR-CW:Q8-4:ai">QM8-4</channel>
+<channel name="SR-CW:Q9-1:ai">QM9-1</channel>
+<channel name="SR-CW:Q9-2:ai">QM9-2</channel>
+<channel name="SR-CW:Q9-3:ai">QM9-3</channel>
+<channel name="SR-CW:Q9-4:ai">QM9-4</channel>
+<channel name="SR-CW:Q10-1:ai">QM10-1</channel>
+<channel name="SR-CW:Q10-2:ai">QM10-2</channel>
+<channel name="SR-CW:Q10-3:ai">QM10-3</channel>
+<channel name="SR-CW:Q10-4:ai">QM10-4</channel>
+<channel name="SR-CW:Q11-1:ai">QM11-1</channel>
+<channel name="SR-CW:Q11-2:ai">QM11-2</channel>
+<channel name="SR-CW:Q11-3:ai">QM11-3</channel>
+<channel name="SR-CW:Q11-4:ai">QM11-4</channel>
+<channel name="SR-CW:Q12-1:ai">QM12-1</channel>
+<channel name="SR-CW:Q12-2:ai">QM12-2</channel>
+<channel name="SR-CW:Q12-3:ai">QM12-3</channel>
+<channel name="SR-CW:Q12-4:ai">QM12-4</channel>
+<channel name="SR-CW:Q13-1:ai">QM13-1</channel>
+<channel name="SR-CW:Q13-2:ai">QM13-2</channel>
+<channel name="SR-CW:Q13-3:ai">QM13-3</channel>
+<channel name="SR-CW:Q13-4:ai">QM13-4</channel>
+<channel name="SR-CW:Q14-1:ai">QM14-1</channel>
+<channel name="SR-CW:Q14-2:ai">QM14-2</channel>
+<channel name="SR-CW:Q14-3:ai">QM14-3</channel>
+<channel name="SR-CW:Q14-4:ai">QM14-4</channel>
+<channel name="SR-CW:Q15-1:ai">QM15-1</channel>
+<channel name="SR-CW:Q15-2:ai">QM15-2</channel>
+<channel name="SR-CW:Q15-3:ai">QM15-3</channel>
+<channel name="SR-CW:Q15-4:ai">QM15-4</channel>
+<channel name="SR-CW:Q16-1:ai">QM16-1</channel>
+<channel name="SR-CW:Q16-2:ai">QM16-2</channel>
+<channel name="SR-CW:Q16-3:ai">QM16-3</channel>
+<channel name="SR-CW:Q16-4:ai">QM16-4</channel>
+<channel name="SR-CW:Q17-1:ai">QM17-1</channel>
+<channel name="SR-CW:Q17-2:ai">QM17-2</channel>
+<channel name="SR-CW:Q17-3:ai">QM17-3</channel>
+<channel name="SR-CW:Q17-4:ai">QM17-4</channel>
+<channel name="SR-CW:Q18-1:ai">QM18-1</channel>
+<channel name="SR-CW:Q18-2:ai">QM18-2</channel>
+<channel name="SR-CW:Q18-3:ai">QM18-3</channel>
+<channel name="SR-CW:Q18-4:ai">QM18-4</channel>
+<channel name="SR-CW:Q19-1:ai">QM19-1</channel>
+<channel name="SR-CW:Q19-2:ai">QM19-2</channel>
+<channel name="SR-CW:Q19-3:ai">QM19-3</channel>
+<channel name="SR-CW:Q19-4:ai">QM19-4</channel>
+<channel name="SR-CW:Q20-1:ai">QM20-1</channel>
+<channel name="SR-CW:Q20-2:ai">QM20-2</channel>
+<channel name="SR-CW:Q20-3:ai">QM20-3</channel>
+<channel name="SR-CW:Q20-4:ai">QM20-4</channel>
+<channel name="SR-CW:Q21-1:ai">QM21-1</channel>
+<channel name="SR-CW:Q21-2:ai">QM21-2</channel>
+<channel name="SR-CW:Q21-3:ai">QM21-3</channel>
+<channel name="SR-CW:Q21-4:ai">QM21-4</channel>
+<channel name="SR-CW:Q22-1:ai">QM22-1</channel>
+<channel name="SR-CW:Q22-2:ai">QM22-2</channel>
+<channel name="SR-CW:Q22-3:ai">QM22-3</channel>
+<channel name="SR-CW:Q22-4:ai">QM22-4</channel>
+<channel name="SR-CW:Q23-1:ai">QM23-1</channel>
+<channel name="SR-CW:Q23-2:ai">QM23-2</channel>
+<channel name="SR-CW:Q23-3:ai">QM23-3</channel>
+<channel name="SR-CW:Q23-4:ai">QM23-4</channel>
+<channel name="SR-CW:Q24-1:ai">QM24-1</channel>
+<channel name="SR-CW:Q24-2:ai">QM24-2</channel>
+<channel name="SR-CW:Q24-3:ai">QM24-3</channel>
+<channel name="SR-CW:Q24-4:ai">QM24-4</channel>
+<channel name="SR-CW:Q25-1:ai">QM25-1</channel>
+<channel name="SR-CW:Q25-2:ai">QM25-2</channel>
+<channel name="SR-CW:Q25-3:ai">QM25-3</channel>
+<channel name="SR-CW:Q25-4:ai">QM25-4</channel>
+<channel name="SR-CW:Q26-1:ai">QM26-1</channel>
+<channel name="SR-CW:Q26-2:ai">QM26-2</channel>
+<channel name="SR-CW:Q26-3:ai">QM26-3</channel>
+<channel name="SR-CW:Q26-4:ai">QM26-4</channel>
+<channel name="SR-CW:Q27-1:ai">QM27-1</channel>
+<channel name="SR-CW:Q27-2:ai">QM27-2</channel>
+<channel name="SR-CW:Q27-3:ai">QM27-3</channel>
+<channel name="SR-CW:Q27-4:ai">QM27-4</channel>
+<channel name="SR-CW:Q28-1:ai">QM28-1</channel>
+<channel name="SR-CW:Q28-2:ai">QM28-2</channel>
+<channel name="SR-CW:Q28-3:ai">QM28-3</channel>
+<channel name="SR-CW:Q28-4:ai">QM28-4</channel>
+<channel name="SR-CW:Q29-1:ai">QM29-1</channel>
+<channel name="SR-CW:Q29-2:ai">QM29-2</channel>
+<channel name="SR-CW:Q29-3:ai">QM29-3</channel>
+<channel name="SR-CW:Q29-4:ai">QM29-4</channel>
+<channel name="SR-CW:Q30-1:ai">QM30-1</channel>
+<channel name="SR-CW:Q30-2:ai">QM30-2</channel>
+<channel name="SR-CW:Q30-3:ai">QM30-3</channel>
+<channel name="SR-CW:Q30-4:ai">QM30-4</channel>
+<channel name="SR-CW:Q31-1:ai">QM31-1</channel>
+<channel name="SR-CW:Q31-2:ai">QM31-2</channel>
+<channel name="SR-CW:Q31-3:ai">QM31-3</channel>
+<channel name="SR-CW:Q31-4:ai">QM31-4</channel>
+<channel name="SR-CW:Q32-1:ai">QM32-1</channel>
+<channel name="SR-CW:Q32-2:ai">QM32-2</channel>
+<channel name="SR-CW:Q32-3:ai">QM32-3</channel>
+<channel name="SR-CW:Q32-4:ai">QM32-4</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Utility</ChartTitle>
+</group>
+
+</groups>

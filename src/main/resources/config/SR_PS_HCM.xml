@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR_PS_HC1:current:ai">HC1:ai</channel>
+<channel name="SR_PS_HC2:current:ai">HC2:ai</channel>
+<channel name="SR_PS_HC3:current:ai">HC3:ai</channel>
+<channel name="SR_PS_HC4:current:ai">HC4:ai</channel>
+<channel name="SR_PS_HC5:current:ai">HC5:ai</channel>
+<channel name="SR_PS_HC6:current:ai">HC6:ai</channel>
+<channel name="SR_PS_HC7:current:ai">HC7:ai</channel>
+<channel name="SR_PS_HC8:current:ai">HC8:ai</channel>
+<channel name="SR_PS_HC9:current:ai">HC9:ai</channel>
+<channel name="SR_PS_HC10:current:ai">HC10:ai</channel>
+<channel name="SR_PS_HC11:current:ai">HC11:ai</channel>
+<channel name="SR_PS_HC12:current:ai">HC12:ai</channel>
+<channel name="SR_PS_HC13:current:ai">HC13:ai</channel>
+<channel name="SR_PS_HC14:current:ai">HC14:ai</channel>
+<channel name="SR_PS_HC15:current:ai">HC15:ai</channel>
+<channel name="SR_PS_HC16:current:ai">HC16:ai</channel>
+<channel name="SR_PS_HC17:current:ai">HC17:ai</channel>
+<channel name="SR_PS_HC18:current:ai">HC18:ai</channel>
+<channel name="SR_PS_HC19:current:ai">HC19:ai</channel>
+<channel name="SR_PS_HC20:current:ai">HC20:ai</channel>
+<channel name="SR_PS_HC21:current:ai">HC21:ai</channel>
+<channel name="SR_PS_HC22:current:ai">HC22:ai</channel>
+<channel name="SR_PS_HC23:current:ai">HC23:ai</channel>
+<channel name="SR_PS_HC24:current:ai">HC24:ai</channel>
+<channel name="SR_PS_HC25:current:ai">HC25:ai</channel>
+<channel name="SR_PS_HC26:current:ai">HC26:ai</channel>
+<channel name="SR_PS_HC27:current:ai">HC27:ai</channel>
+<channel name="SR_PS_HC28:current:ai">HC28:ai</channel>
+<channel name="SR_PS_HC29:current:ai">HC29:ai</channel>
+<channel name="SR_PS_HC30:current:ai">HC30:ai</channel>
+<channel name="SR_PS_HC31:current:ai">HC31:ai</channel>
+<channel name="SR_PS_HC32:current:ai">HC32:ai</channel>
+<channel name="SR_PS_HC1:current:ao">HC1:ao</channel>
+<channel name="SR_PS_HC2:current:ao">HC2:ao</channel>
+<channel name="SR_PS_HC3:current:ao">HC3:ao</channel>
+<channel name="SR_PS_HC4:current:ao">HC4:ao</channel>
+<channel name="SR_PS_HC5:current:ao">HC5:ao</channel>
+<channel name="SR_PS_HC6:current:ao">HC6:ao</channel>
+<channel name="SR_PS_HC7:current:ao">HC7:ao</channel>
+<channel name="SR_PS_HC8:current:ao">HC8:ao</channel>
+<channel name="SR_PS_HC9:current:ao">HC9:ao</channel>
+<channel name="SR_PS_HC10:current:ao">HC10:ao</channel>
+<channel name="SR_PS_HC11:current:ao">HC11:ao</channel>
+<channel name="SR_PS_HC12:current:ao">HC12:ao</channel>
+<channel name="SR_PS_HC13:current:ao">HC13:ao</channel>
+<channel name="SR_PS_HC14:current:ao">HC14:ao</channel>
+<channel name="SR_PS_HC15:current:ao">HC15:ao</channel>
+<channel name="SR_PS_HC16:current:ao">HC16:ao</channel>
+<channel name="SR_PS_HC17:current:ao">HC17:ao</channel>
+<channel name="SR_PS_HC18:current:ao">HC18:ao</channel>
+<channel name="SR_PS_HC19:current:ao">HC19:ao</channel>
+<channel name="SR_PS_HC20:current:ao">HC20:ao</channel>
+<channel name="SR_PS_HC21:current:ao">HC21:ao</channel>
+<channel name="SR_PS_HC22:current:ao">HC22:ao</channel>
+<channel name="SR_PS_HC23:current:ao">HC23:ao</channel>
+<channel name="SR_PS_HC24:current:ao">HC24:ao</channel>
+<channel name="SR_PS_HC25:current:ao">HC25:ao</channel>
+<channel name="SR_PS_HC26:current:ao">HC26:ao</channel>
+<channel name="SR_PS_HC27:current:ao">HC27:ao</channel>
+<channel name="SR_PS_HC28:current:ao">HC28:ao</channel>
+<channel name="SR_PS_HC29:current:ao">HC29:ao</channel>
+<channel name="SR_PS_HC30:current:ao">HC30:ao</channel>
+<channel name="SR_PS_HC31:current:ao">HC31:ao</channel>
+<channel name="SR_PS_HC32:current:ao">HC32:ao</channel>
+</group>
+
+<group name="G2">
+<unit >Current(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-PS</ChartTitle>
+</group>
+
+</groups>
+

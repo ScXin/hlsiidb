@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="Transfer:Efficiency">Transfer:Efficiency</channel>
+<channel name="Injecting:Efficiency">Injecting:Efficiency</channel>
+<channel name="Injecting:Efficiency:Ring:DCCT:ai">Injecting:Efficiency:Ring:DCCT:ai</channel>
+<channel name="Injecting:Efficiency:Fct3">Injecting:Efficiency:Fct3</channel>
+</group>
+
+<group name="G2">
+<unit>Efficiency/%</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-CW:BD-T1-1:ai">T1-1</channel>
+<channel name="LA-CW:BD-T1-2:ai">T1-2</channel>
+<channel name="LA-CW:BD-T2-1:ai">T2-1</channel>
+<channel name="LA-CW:BD-T2-2:ai">T2-2</channel>
+<channel name="LA-CW:BD-T3-1:ai">T3-1</channel>
+<channel name="LA-CW:BD-T3-2:ai">T3-2</channel>
+<channel name="LA-CW:BD-T4-1:ai">T4-1</channel>
+<channel name="LA-CW:BD-T4-2:ai">T4-2</channel>
+<channel name="LA-CW:BD-T5-1:ai">T5-1</channel>
+<channel name="LA-CW:BD-T5-2:ai">T5-2</channel>
+<channel name="LA-CW:BD-T6-1:ai">T6-1</channel>
+<channel name="LA-CW:BD-T6-2:ai">T6-2</channel>
+<channel name="LA-CW:BD-T7-1:ai">T7-1</channel>
+<channel name="LA-CW:BD-T7-2:ai">T7-2</channel>
+<channel name="LA-CW:BD-T8-1:ai">T8-1</channel>
+<channel name="LA-CW:BD-T8-2:ai">T8-2</channel>
+<channel name="LA-CW:BD-T9-1:ai">T9-1</channel>
+<channel name="LA-CW:BD-T9-2:ai">T9-2</channel>
+</group>
+
+<group name="G2">
+<unit >WaveGuide(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac_Utility</ChartTitle>
+</group>
+
+</groups>
+

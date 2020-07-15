@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR_PS_VC1:current:ai">VC1:ai</channel>
+<channel name="SR_PS_VC2:current:ai">VC2:ai</channel>
+<channel name="SR_PS_VC3:current:ai">VC3:ai</channel>
+<channel name="SR_PS_VC4:current:ai">VC4:ai</channel>
+<channel name="SR_PS_VC5:current:ai">VC5:ai</channel>
+<channel name="SR_PS_VC6:current:ai">VC6:ai</channel>
+<channel name="SR_PS_VC7:current:ai">VC7:ai</channel>
+<channel name="SR_PS_VC8:current:ai">VC8:ai</channel>
+<channel name="SR_PS_VC9:current:ai">VC9:ai</channel>
+<channel name="SR_PS_VC10:current:ai">VC10:ai</channel>
+<channel name="SR_PS_VC11:current:ai">VC11:ai</channel>
+<channel name="SR_PS_VC12:current:ai">VC12:ai</channel>
+<channel name="SR_PS_VC13:current:ai">VC13:ai</channel>
+<channel name="SR_PS_VC14:current:ai">VC14:ai</channel>
+<channel name="SR_PS_VC15:current:ai">VC15:ai</channel>
+<channel name="SR_PS_VC16:current:ai">VC16:ai</channel>
+<channel name="SR_PS_VC17:current:ai">VC17:ai</channel>
+<channel name="SR_PS_VC18:current:ai">VC18:ai</channel>
+<channel name="SR_PS_VC19:current:ai">VC19:ai</channel>
+<channel name="SR_PS_VC20:current:ai">VC20:ai</channel>
+<channel name="SR_PS_VC21:current:ai">VC21:ai</channel>
+<channel name="SR_PS_VC22:current:ai">VC22:ai</channel>
+<channel name="SR_PS_VC23:current:ai">VC23:ai</channel>
+<channel name="SR_PS_VC24:current:ai">VC24:ai</channel>
+<channel name="SR_PS_VC25:current:ai">VC25:ai</channel>
+<channel name="SR_PS_VC26:current:ai">VC26:ai</channel>
+<channel name="SR_PS_VC27:current:ai">VC27:ai</channel>
+<channel name="SR_PS_VC28:current:ai">VC28:ai</channel>
+<channel name="SR_PS_VC29:current:ai">VC29:ai</channel>
+<channel name="SR_PS_VC30:current:ai">VC30:ai</channel>
+<channel name="SR_PS_VC31:current:ai">VC31:ai</channel>
+<channel name="SR_PS_VC32:current:ai">VC32:ai</channel>
+<channel name="SR_PS_VC1:current:ao">VC1:ao</channel>
+<channel name="SR_PS_VC2:current:ao">VC2:ao</channel>
+<channel name="SR_PS_VC3:current:ao">VC3:ao</channel>
+<channel name="SR_PS_VC4:current:ao">VC4:ao</channel>
+<channel name="SR_PS_VC5:current:ao">VC5:ao</channel>
+<channel name="SR_PS_VC6:current:ao">VC6:ao</channel>
+<channel name="SR_PS_VC7:current:ao">VC7:ao</channel>
+<channel name="SR_PS_VC8:current:ao">VC8:ao</channel>
+<channel name="SR_PS_VC9:current:ao">VC9:ao</channel>
+<channel name="SR_PS_VC10:current:ao">VC10:ao</channel>
+<channel name="SR_PS_VC11:current:ao">VC11:ao</channel>
+<channel name="SR_PS_VC12:current:ao">VC12:ao</channel>
+<channel name="SR_PS_VC13:current:ao">VC13:ao</channel>
+<channel name="SR_PS_VC14:current:ao">VC14:ao</channel>
+<channel name="SR_PS_VC15:current:ao">VC15:ao</channel>
+<channel name="SR_PS_VC16:current:ao">VC16:ao</channel>
+<channel name="SR_PS_VC17:current:ao">VC17:ao</channel>
+<channel name="SR_PS_VC18:current:ao">VC18:ao</channel>
+<channel name="SR_PS_VC19:current:ao">VC19:ao</channel>
+<channel name="SR_PS_VC20:current:ao">VC20:ao</channel>
+<channel name="SR_PS_VC21:current:ao">VC21:ao</channel>
+<channel name="SR_PS_VC22:current:ao">VC22:ao</channel>
+<channel name="SR_PS_VC23:current:ao">VC23:ao</channel>
+<channel name="SR_PS_VC24:current:ao">VC24:ao</channel>
+<channel name="SR_PS_VC25:current:ao">VC25:ao</channel>
+<channel name="SR_PS_VC26:current:ao">VC26:ao</channel>
+<channel name="SR_PS_VC27:current:ao">VC27:ao</channel>
+<channel name="SR_PS_VC28:current:ao">VC28:ao</channel>
+<channel name="SR_PS_VC29:current:ao">VC29:ao</channel>
+<channel name="SR_PS_VC30:current:ao">VC30:ao</channel>
+<channel name="SR_PS_VC31:current:ao">VC31:ao</channel>
+<channel name="SR_PS_VC32:current:ao">VC32:ao</channel>
+</group>
+
+<group name="G2">
+<unit >Current(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-PS</ChartTitle>
+</group>
+
+</groups>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-CW-cRIO-01:Memory_Usage">LA-cRIO-01:mem</channel>
+<channel name="LA-CW-cRIO-02:Memory_Usage">LA-cRIO-02:mem</channel>
+<channel name="LA-CW-cRIO-03:Memory_Usage">LA-cRIO-03:mem</channel>
+<channel name="LA-CW-cRIO-04:Memory_Usage">LA-cRIO-04:mem</channel>
+<channel name="LA-CW-cRIO-05:Memory_Usage">LA-cRIO-05:mem</channel>
+<channel name="LA-CW-cRIO-06:Memory_Usage">LA-cRIO-06:mem</channel>
+<channel name="LA-CW-cRIO-07:Memory_Usage">LA-cRIO-07:mem</channel>
+<channel name="LA-CW-cRIO-08:Memory_Usage">LA-cRIO-08:mem</channel>
+<channel name="LA-CW-cRIO-09:Memory_Usage">LA-cRIO-09:mem</channel>
+<channel name="SR-CW-cRIO-01:Memory_Usage">SR-cRIO-01:mem</channel>
+<channel name="SR-CW-cRIO-02:Memory_Usage">SR-cRIO-02:mem</channel>
+<channel name="SR-CW-cRIO-03:Memory_Usage">SR-cRIO-03:mem</channel>
+<channel name="SR-CW-cRIO-04:Memory_Usage">SR-cRIO-04:mem</channel>
+<channel name="SR-CW-cRIO-05:Memory_Usage">SR-cRIO-05:mem</channel>
+<channel name="SR-CW-cRIO-06:Memory_Usage">SR-cRIO-06:mem</channel>
+<channel name="SR-CW-cRIO-07:Memory_Usage">SR-cRIO-07:mem</channel>
+<channel name="SR-CW-cRIO-08:Memory_Usage">SR-cRIO-08:mem</channel>
+<channel name="SR-CW-cRIO-09:Memory_Usage">SR-cRIO-09:mem</channel>
+<channel name="SR-CW-cRIO-10:Memory_Usage">SR-cRIO-10:mem</channel>
+<channel name="SR-CW-cRIO-11:Memory_Usage">SR-cRIO-11:mem</channel>
+</group>
+
+<group name="G2">
+<unit >Mem(%)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac_Utility</ChartTitle>
+</group>
+
+</groups>
+

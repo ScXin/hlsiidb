@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="RNG:ORB:FDBK:COUNT:X">count:X</channel>
+<channel name="RNG:ORB:FDBK:COUNT:Y">count:Y</channel>
+</group>
+
+<group name="G2">
+<unit>FDBKcount</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

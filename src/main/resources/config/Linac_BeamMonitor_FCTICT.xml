@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-BD-FCT01:BeamAmplitude">FCT01:BeamAmplitude</channel>
+<channel name="LA-BD-FCT01:BeamPulseWidth">FCT01:BeamPulseWidth</channel>
+<channel name="LA-BD-FCT02:BeamAmplitude">FCT02:BeamAmplitude</channel>
+<channel name="LA-BD-FCT02:BeamPulseWidth">FCT02:BeamPulseWidth</channel>
+<channel name="LA-BD-ICT01:BeamCharge">ICT01:BeamCharge</channel>
+</group>
+
+<group name="G2">
+<unit >FCTICT</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

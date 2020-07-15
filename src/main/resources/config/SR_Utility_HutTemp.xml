@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-CW:NHJ-T:ai">NHJ-T</channel>
+<channel name="SR-CW:SHJ-T:ai">SHJ-T</channel>
+<channel name="SR-CW:WHJ-T:ai">WHJ-T</channel>
+<channel name="SR-CW:EHJ-T:ai">EHJ-T</channel>
+<channel name="SR-CW:ZHJ-T:ai">ZHJ-T</channel>
+<channel name="SR-CW:GHJ-T1:ai">GHJ-T1</channel>
+<channel name="SR-CW:GHJ-T2:ai">GHJ-T2</channel>
+<channel name="SR-CW:B5-T1:ai">vacuum-tube</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Utility</ChartTitle>
+</group>
+
+</groups>

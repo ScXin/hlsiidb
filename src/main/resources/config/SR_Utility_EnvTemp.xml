@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-CW:BHJ-T1:ai">BHJ-T1</channel>
+<channel name="SR-CW:BHJ-T2:ai">BHJ-T2</channel>
+<channel name="SR-CW:KHJ-T1:ai">KHJ-T1</channel>
+<channel name="SR-CW:KHJ-T2:ai">KHJ-T2</channel>
+<channel name="SR-CW:HHJ-T1:ai">HHJ-T1</channel>
+<channel name="SR-CW:HHJ-T2:ai">HHJ-T2</channel>
+<channel name="SR-CW:JHJ-T1:ai">JHJ-T1</channel>
+<channel name="SR-CW:JHJ-T2:ai">JHJ-T2</channel>
+<channel name="SR-CW:YHJ-T1:ai">YHJ-T1</channel>
+<channel name="SR-CW:YHJ-T2:ai">YHJ-T2</channel>
+<channel name="SR-CW:YHJ-T3:ai">YHJ-T3</channel>
+<channel name="SR-CW:YHJ-T4:ai">YHJ-T4</channel>
+<channel name="SR-CW:YHJ-T5:ai">YHJ-T5</channel>
+<channel name="SR-CW:YHJ-T6:ai">YHJ-T6</channel>
+<channel name="SR-CW:ZHJ-T1:ai">ZHJ-T1</channel>
+<channel name="SR-CW:ZHJ-T2:ai">ZHJ-T2</channel>
+<channel name="SR-CW:ZHJ-T3:ai">ZHJ-T3</channel>
+<channel name="SR-CW:ZHJ-T4:ai">ZHJ-T4</channel>
+<channel name="SR-CW:ARPES-ES:T:ai">ARPES-ES</channel>
+<channel name="SR-CW:MAS-SPEC-ES:T:ai">MAS-SPEC-ES</channel>
+<channel name="SR-CW:ATM-MOLE-ES:T:ai">ATM-MOLE-ES</channel>
+<channel name="SR-CW:SUR-PHY-ES:T:ai">SUR-PHY-ES</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Utility</ChartTitle>
+</group>
+
+</groups>

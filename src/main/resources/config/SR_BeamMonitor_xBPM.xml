@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="RNG:INJ:BPM:BPM1:X">INJ:BPM1</channel>
+<channel name="RNG:INJ:BPM:BPM2:X">INJ:BMP2</channel>
+<channel name="RNG:INJ:BPM:BPM3:X">INJ:BMP3</channel>
+<channel name="RNG:INJ:BPM:BPM4:X">INJ:BMP4</channel>
+<channel name="RNG:QPU:BPM:BPM1:X">QPU:BMP1</channel>
+<channel name="RNG:QPU:BPM:BPM2:X">QPU:BMP2</channel>
+<channel name="RNG:QPU:BPM:BPM3:X">QPU:BMP3</channel>
+<channel name="RNG:QPU:BPM:BPM4:X">QPU:BMP4</channel>
+<channel name="RNG:SSS:BPM:BPM1:X">SSS:BPM1</channel>
+<channel name="RNG:SSS:BPM:BPM2:X">SSS:BPM2</channel>
+<channel name="RNG:SSS:BPM:BPM3:X">SSS:BPM3</channel>
+<channel name="RNG:SSS:BPM:BPM4:X">SSS:BPM4</channel>
+<channel name="RNG:WIG:BPM:BPM1:X">WIG:BPM1</channel>
+<channel name="RNG:WIG:BPM:BPM2:X">WIG:BPM2</channel>
+<channel name="RNG:WIG:BPM:BPM3:X">WIG:BPM3</channel>
+<channel name="RNG:WIG:BPM:BPM4:X">WIG:BPM4</channel>
+<channel name="RNG:U92:BPM:BPM1:X">U92:BPM1</channel>
+<channel name="RNG:U92:BPM:BPM2:X">U92:BPM2</channel>
+<channel name="RNG:U92:BPM:BPM3:X">U92:BPM3</channel>
+<channel name="RNG:U92:BPM:BPM4:X">U92:BPM4</channel>
+<channel name="RNG:IVU:BPM:BPM1:X">IVU:BPM1</channel>
+<channel name="RNG:IVU:BPM:BPM2:X">IVU:BPM2</channel>
+<channel name="RNG:IVU:BPM:BPM3:X">IVU:BPM3</channel>
+<channel name="RNG:IVU:BPM:BPM4:X">IVU:BPM4</channel>
+<channel name="RNG:EPU:BPM:BPM1:X">EPU:BPM1</channel>
+<channel name="RNG:EPU:BPM:BPM2:X">EPU:BPM2</channel>
+<channel name="RNG:EPU:BPM:BPM3:X">EPU:BPM3</channel>
+<channel name="RNG:EPU:BPM:BPM4:X">EPU:BPM4</channel>
+<channel name="RNG:RFC:BPM:BPM1:X">RFC:BPM1</channel>
+<channel name="RNG:RFC:BPM:BPM2:X">RFC:BPM2</channel>
+<channel name="RNG:RFC:BPM:BPM3:X">RFC:BPM3</channel>
+<channel name="RNG:RFC:BPM:BPM4:X">RFC:BPM4</channel>
+</group>
+
+<group name="G2">
+<unit >x(mm)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

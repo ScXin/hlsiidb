@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-DM-G1:ai">G1</channel>
+<channel name="SR-DM-N1:ai">N1</channel>
+<channel name="SR-DM-G6:ai">G6</channel>
+<channel name="SR-DM-N6:ai">N6</channel>
+<channel name="SR-DM-G7:ai">G7</channel>
+<channel name="SR-DM-N7:ai">N7</channel>
+<channel name="SR-DM-G8:ai">G8</channel>
+<channel name="SR-DM-N8:ai">N8</channel>
+<channel name="SR-DM-G9:ai">G9</channel>
+<channel name="SR-DM-N9:ai">N9</channel>
+<channel name="SR-DM-G10:ai">G10</channel>
+<channel name="SR-DM-N10:ai">N10</channel>
+<channel name="SR-DM-G11:ai">G11</channel>
+<channel name="SR-DM-N11:ai">N11</channel>
+<channel name="SR-DM-G12:ai">G12</channel>
+<channel name="SR-DM-N12:ai">N12</channel>
+<channel name="SR-DM-G13:ai">G13</channel>
+<channel name="SR-DM-N13:ai">N13</channel>
+<channel name="SR-DM-G14:ai">G14</channel>
+<channel name="SR-DM-N14:ai">N14</channel>
+<channel name="SR-DM-G15:ai">G15</channel>
+<channel name="SR-DM-N15:ai">N15</channel>
+<channel name="SR-DM-G16:ai">G16</channel>
+<channel name="SR-DM-N16:ai">N16</channel>
+<channel name="SR-DM-G17:ai">G17</channel>
+<channel name="SR-DM-N17:ai">N17</channel>
+<channel name="SR-DM-G18:ai">G18</channel>
+<channel name="SR-DM-N18:ai">N18</channel>
+</group>
+
+<group name="G2">
+<unit>nSv</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+<group name="G4">
+<channel name="RNG:BEAM:CURR">Beam current</channel>
+</group>
+
+<group name="G5">
+<unit>BeamCurrent(mA)</unit>
+</group>
+</groups>
+

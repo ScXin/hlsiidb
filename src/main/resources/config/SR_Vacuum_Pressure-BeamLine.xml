@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="BL03U:G0">BL03U:G0</channel>
+<channel name="BL03U:G1">BL03U:G1</channel>
+<channel name="BL03U:G2">BL03U:G2</channel>
+<channel name="BL03U:G3">BL03U:G3</channel>
+<channel name="BL03U:G4">BL03U:G4</channel>
+<channel name="BL03U:G5">BL03U:G5</channel>
+<channel name="BL04B:G0">BL04B:G0</channel>
+<channel name="BL04B:G1">BL04B:G1</channel>
+<channel name="BL04B:G2">BL04B:G2</channel>
+<channel name="BL07W:G0">BL07W:G0</channel>
+<channel name="BL07W:G1">BL07W:G1</channel>
+<channel name="BL07W:G2">BL07W:G2</channel>
+<channel name="BL07W:G3">BL07W:G3</channel>
+<channel name="BL07W:G4">BL07W:G4</channel>
+<channel name="BL07W:G5">BL07W:G5</channel>
+<channel name="BL09U:G0">BL09U:G0</channel>
+<channel name="BL09U:G1">BL09U:G1</channel>
+<channel name="BL09U:G2">BL09U:G2</channel>
+<channel name="BL09U:G3">BL09U:G3</channel>
+<channel name="BL09U:G4">BL09U:G4</channel>
+<channel name="BL09U:G5">BL09U:G5</channel>
+<channel name="BL10B:G0">BL10B:G0</channel>
+<channel name="BL10B:G1">BL10B:G1</channel>
+<channel name="BL10B:G2">BL10B:G2</channel>
+<channel name="BL10B:G3">BL10B:G3</channel>
+<channel name="BL11U:G0">BL11U:G0</channel>
+<channel name="BL11U:G1">BL11U:G1</channel>
+<channel name="BL11U:G2">BL11U:G2</channel>
+<channel name="BL11U:G3">BL11U:G3</channel>
+<channel name="BL11U:G4">BL11U:G4</channel>
+<channel name="BL11U:G5">BL11U:G5</channel>
+<channel name="BL13U:G0">BL13U:G0</channel>
+<channel name="BL13U:G1">BL13U:G1</channel>
+<channel name="BL13U:G2">BL13U:G2</channel>
+<channel name="BL13U:G3">BL13U:G3</channel>
+<channel name="BL13U:G4">BL13U:G4</channel>
+<channel name="BL13U:G5">BL13U:G5</channel>
+<channel name="SR-VA-FEVG7:ch2:pressure:ai">FEVG7:ch2</channel>
+</group>
+
+<group name="G2">
+<unit>Pressure(Pa)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Vacuum-BeamLine</ChartTitle>
+</group>
+
+
+</groups>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA_GUN_HVPS:voltage:ao">HVPS:voltage:ao</channel>
+<channel name="LA_GUN_HVPS:voltage:ai">HVPS:voltage:ai</channel>
+<channel name="LA_GUN_HVPS:current:ao">HVPS:current:ao</channel>
+<channel name="LA_GUN_HVPS:current:ai">HVPS:current:ai</channel>
+<channel name="LA_GUN_CTRLPS:current:ao">CTRLPS:current:ao</channel>
+<channel name="LA_GUN_CTRLPS:current:calc">CTRLPS:current:calc</channel>
+<channel name="LA_GUN_CTRLPS:grid:ao">CTRLPS:grid:ao</channel>
+<channel name="LA_GUN_CTRLPS:grid:calc">CTRLPS:grid:calc</channel>
+</group>
+
+<group name="G2">
+<unit >No Unit</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

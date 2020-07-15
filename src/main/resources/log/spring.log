@@ -1,0 +1,26 @@
+2020-07-15 12:07:19.835  INFO 14512 --- [main] com.example.hlsiidb.HlsiidbApplication   : Starting HlsiidbApplication on DESKTOP-N6N2P92 with PID 14512 (G:\HLSIIDB-20200617\hlsiidb\target\classes started by Brave in G:\HLSIIDB-20200617\hlsiidb)
+2020-07-15 12:07:19.839  INFO 14512 --- [main] com.example.hlsiidb.HlsiidbApplication   : No active profile set, falling back to default profiles: default
+2020-07-15 12:07:21.085  WARN 14512 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.hlsiidb.mybatis]' package. Please check your configuration.
+2020-07-15 12:07:21.236  WARN 14512 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.hlsiidb]' package. Please check your configuration.
+2020-07-15 12:07:21.885  INFO 14512 --- [main] org.apache.shiro.realm.AuthorizingRealm  : No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+2020-07-15 12:07:22.365  INFO 14512 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-15 12:07:22.365  INFO 14512 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2020-07-15 12:07:22.477  INFO 14512 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-15 12:07:23.060  INFO 14512 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2020-07-15 12:07:23.101  INFO 14512 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-07-15 12:07:23.176  INFO 14512 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.9.Final}
+2020-07-15 12:07:23.177  INFO 14512 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2020-07-15 12:07:23.337  INFO 14512 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2020-07-15 12:07:23.470  INFO 14512 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.Oracle12cDialect
+2020-07-15 12:07:23.523  INFO 14512 --- [main] org.hibernate.type.BasicTypeRegistry     : HHH000270: Type registration [byte[]] overrides previous : org.hibernate.type.BinaryType@1a1f79ce
+2020-07-15 12:07:23.523  INFO 14512 --- [main] org.hibernate.type.BasicTypeRegistry     : HHH000270: Type registration [[B] overrides previous : org.hibernate.type.BinaryType@1a1f79ce
+2020-07-15 12:07:23.523  INFO 14512 --- [main] org.hibernate.type.BasicTypeRegistry     : HHH000270: Type registration [Byte[]] overrides previous : org.hibernate.type.WrapperBinaryType@281b2dfd
+2020-07-15 12:07:23.523  INFO 14512 --- [main] org.hibernate.type.BasicTypeRegistry     : HHH000270: Type registration [[Ljava.lang.Byte;] overrides previous : org.hibernate.type.WrapperBinaryType@281b2dfd
+2020-07-15 12:07:25.013  INFO 14512 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-15 12:07:25.028  INFO 14512 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-15 12:07:25.028  INFO 14512 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-15 12:07:25.172  INFO 14512 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: getBeamCurrentUsingGET_1
+2020-07-15 12:07:25.188  INFO 14512 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: getHistoryByIdUsingGET_1
+2020-07-15 12:07:25.351  INFO 14512 --- [main] com.example.hlsiidb.HlsiidbApplication   : Started HlsiidbApplication in 5.843 seconds (JVM running for 7.265)

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL-CW:TQ1-1:ai">Q1-1</channel>
+<channel name="TL-CW:TQ1-2:ai">Q1-2</channel>
+<channel name="TL-CW:TQ1-3:ai">Q1-3</channel>
+<channel name="TL-CW:TQ1-4:ai">Q1-4</channel>
+<channel name="TL-CW:TQ2-1:ai">Q2-1</channel>
+<channel name="TL-CW:TQ2-2:ai">Q2-2</channel>
+<channel name="TL-CW:TQ2-3:ai">Q2-3</channel>
+<channel name="TL-CW:TQ2-4:ai">Q2-4</channel>
+<channel name="TL-CW:TQ3-1:ai">Q3-1</channel>
+<channel name="TL-CW:TQ3-2:ai">Q3-2</channel>
+<channel name="TL-CW:TQ3-3:ai">Q3-3</channel>
+<channel name="TL-CW:TQ3-4:ai">Q3-4</channel>
+<channel name="TL-CW:TQ4-1:ai">Q4-1</channel>
+<channel name="TL-CW:TQ4-2:ai">Q4-2</channel>
+<channel name="TL-CW:TQ5-1:ai">Q5-1</channel>
+<channel name="TL-CW:TQ5-2:ai">Q5-2</channel>
+<channel name="TL-CW:TQ6-1:ai">Q6-1</channel>
+<channel name="TL-CW:TQ6-2:ai">Q6-2</channel>
+<channel name="TL-CW:TQ7-1:ai">Q7-1</channel>
+<channel name="TL-CW:TQ7-2:ai">Q7-2</channel>
+<channel name="TL-CW:TQ8-1:ai">Q8-1</channel>
+<channel name="TL-CW:TQ8-2:ai">Q8-2</channel>
+<channel name="TL-CW:TQ8-3:ai">Q8-3</channel>
+<channel name="TL-CW:TQ8-4:ai">Q8-4</channel>
+<channel name="TL-CW:TQ9-1:ai">Q9-1</channel>
+<channel name="TL-CW:TQ9-2:ai">Q9-2</channel>
+<channel name="TL-CW:TQ9-3:ai">Q9-3</channel>
+<channel name="TL-CW:TQ9-4:ai">Q9-4</channel>
+<channel name="TL-CW:TQ10-1:ai">Q10-1</channel>
+<channel name="TL-CW:TQ10-2:ai">Q10-2</channel>
+<channel name="TL-CW:TQ10-3:ai">Q10-3</channel>
+<channel name="TL-CW:TQ10-4:ai">Q10-4</channel>
+<channel name="TL-CW:TQ11-1:ai">Q10-1</channel>
+<channel name="TL-CW:TQ11-2:ai">Q11-2</channel>
+<channel name="TL-CW:TQ11-3:ai">Q11-3</channel>
+<channel name="TL-CW:TQ11-4:ai">Q11-4</channel>
+<channel name="TL-CW:TQ12-1:ai">Q12-1</channel>
+<channel name="TL-CW:TQ12-2:ai">Q12-2</channel>
+<channel name="TL-CW:TQ12-3:ai">Q12-3</channel>
+<channel name="TL-CW:TQ12-4:ai">Q12-4</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Trans_Utility</ChartTitle>
+</group>
+
+</groups>

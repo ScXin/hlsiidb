@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="Ring:beam:current:ai">DCCT</channel>
+<channel name="Ring:beam:current:raw">DCCTraw</channel>
+<channel name="Ring:beam:current:life">Life</channel>
+</group>
+
+<group name="G2">
+<unit>mA</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

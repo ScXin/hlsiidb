@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR_PS_BM:current:ai">BM:ai</channel>
+<channel name="SR_PS_BC1:current:ai">BC1:ai</channel>
+<channel name="SR_PS_BC8:current:ai">BC8:ai</channel>
+<channel name="SR_PS_SM1:current:ai">SM1:ai</channel>
+<channel name="SR_PS_SM2:current:ai">SM2:ai</channel>
+<channel name="SR_PS_SM3:current:ai">SM3:ai</channel>
+<channel name="SR_PS_SM4:current:ai">SM4:ai</channel>
+<channel name="SR_PS_SKM1:current:ai">SKM1:ai</channel>
+<channel name="SR_PS_SKM2:current:ai">SKM2:ai</channel>
+<channel name="SR_PS_SKM3:current:ai">SKM3:ai</channel>
+<channel name="SR_PS_SKM4:current:ai">SKM4:ai</channel>
+<channel name="SR_PS_BM:current:ao">BM:ao</channel>
+<channel name="SR_PS_BC1:current:ao">BC1:ao</channel>
+<channel name="SR_PS_BC8:current:ao">BC8:ao</channel>
+<channel name="SR_PS_SM1:current:ao">SM1:ao</channel>
+<channel name="SR_PS_SM2:current:ao">SM2:ao</channel>
+<channel name="SR_PS_SM3:current:ao">SM3:ao</channel>
+<channel name="SR_PS_SM4:current:ao">SM4:ao</channel>
+<channel name="SR_PS_SKM1:current:ao">SKM1:ao</channel>
+<channel name="SR_PS_SKM2:current:ao">SKM2:ao</channel>
+<channel name="SR_PS_SKM3:current:ao">SKM3:ao</channel>
+<channel name="SR_PS_SKM4:current:ao">SKM4:ao</channel>
+</group>
+
+<group name="G2">
+<unit >Current(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-PS</ChartTitle>
+</group>
+
+</groups>
+

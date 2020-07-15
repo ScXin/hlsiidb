@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+    <group1>
+        <channel name="SR-DM-G6:uSv:calc">DM6-G</channel>
+        <channel name="SR-DM-G7:uSv:calc">DM7-G</channel>
+        <channel name="SR-DM-G8:uSv:calc">DM8-G</channel>
+        <channel name="SR-DM-G9:uSv:calc">DM9-G</channel>
+        <channel name="SR-DM-G10:uSv:calc">DM10-G</channel>
+        <channel name="SR-DM-G11:uSv:calc">DM11-G</channel>
+        <channel name="SR-DM-G12:uSv:calc">DM12-G</channel>
+        <channel name="SR-DM-G13:uSv:calc">DM13-G</channel>
+        <channel name="SR-DM-G14:uSv:calc">DM14-G</channel>
+        <channel name="SR-DM-G15:uSv:calc">DM15-G</channel>
+        <channel name="SR-DM-G16:uSv:calc">DM16-G</channel>
+    </group1>
+    <group2>
+        <channel name="SR-DM-N6:uSv:calc">DM6-N</channel>
+        <channel name="SR-DM-N7:uSv:calc">DM7-N</channel>
+        <channel name="SR-DM-N8:uSv:calc">DM8-N</channel>
+        <channel name="SR-DM-N9:uSv:calc">DM9-N</channel>
+        <channel name="SR-DM-N10:uSv:calc">DM10-N</channel>
+        <channel name="SR-DM-N11:uSv:calc">DM11-N</channel>
+        <channel name="SR-DM-N12:uSv:calc">DM12-N</channel>
+        <channel name="SR-DM-N13:uSv:calc">DM13-N</channel>
+        <channel name="SR-DM-N14:uSv:calc">DM14-N</channel>
+        <channel name="SR-DM-N15:uSv:calc">DM15-N</channel>
+        <channel name="SR-DM-N16:uSv:calc">DM16-N</channel>
+    </group2>
+</groups>

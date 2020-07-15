@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL-CW:BM1-1:ai">BM1-1</channel>
+<channel name="TL-CW:BM1-2:ai">BM1-2</channel>
+<channel name="TL-CW:BM1-3:ai">BM1-3</channel>
+<channel name="TL-CW:BM1-4:ai">BM1-4</channel>
+<channel name="TL-CW:BM2-1:ai">BM2-1</channel>
+<channel name="TL-CW:BM2-2:ai">BM2-2</channel>
+<channel name="TL-CW:BM2-3:ai">BM2-3</channel>
+<channel name="TL-CW:BM2-4:ai">BM2-4</channel>
+<channel name="TL-CW:BM3-1:ai">BM3-1</channel>
+<channel name="TL-CW:BM3-2:ai">BM3-2</channel>
+<channel name="TL-CW:BM3-3:ai">BM3-3</channel>
+<channel name="TL-CW:BM3-4:ai">BM3-4</channel>
+<channel name="TL-CW:BM4-1:ai">BM4-1</channel>
+<channel name="TL-CW:BM4-2:ai">BM4-2</channel>
+<channel name="TL-CW:BM4-3:ai">BM4-3</channel>
+<channel name="TL-CW:BM4-4:ai">BM4-4</channel>
+<channel name="TL-CW:BM5-1:ai">BM5-1</channel>
+<channel name="TL-CW:BM5-2:ai">BM5-2</channel>
+<channel name="TL-CW:BM5-3:ai">BM5-3</channel>
+<channel name="TL-CW:BM5-4:ai">BM5-4</channel>
+<channel name="TL-CW:BM6-1:ai">BM6-1</channel>
+<channel name="TL-CW:BM6-2:ai">BM6-2</channel>
+<channel name="TL-CW:BM6-3:ai">BM6-3</channel>
+<channel name="TL-CW:BM6-4:ai">BM6-4</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Trans_Utility</ChartTitle>
+</group>
+
+</groups>

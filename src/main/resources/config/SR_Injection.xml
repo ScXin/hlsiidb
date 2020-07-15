@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="injector:HV1:ao">Kick1:ao</channel>
+<channel name="injector:HV1:ai">Kick1:ai</channel>
+<channel name="injector:HV2:ao">Kick2:ao</channel>
+<channel name="injector:HV2:ai">Kick2:ai</channel>
+<channel name="injector:HV3:ao">Kick3:ao</channel>
+<channel name="injector:HV3:ai">Kick3:ai</channel>
+<channel name="injector:HV4:ao">Kick4:ao</channel>
+<channel name="injector:HV4:ai">Kick4:ai</channel>
+<channel name="injector:HV5:ao">Septum:ao</channel>
+<channel name="injector:HV5:ai">Septum:ai</channel>
+</group>
+
+<group name="G2">
+<unit >Current(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-Injection</ChartTitle>
+</group>
+
+</groups>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL-BD-ST4-SDM01:ENV:ENV_TEMP_DIGITAL_MONITOR">ST4-SDM01_DIGITAL</channel>
+<channel name="TL-BD-ST4-SDM01:ENV:ENV_TEMP_ANALOG_MONITOR">ST4-SDM01_ANALOG</channel>
+<channel name="TL-BD-ST8-SDM01:ENV:ENV_TEMP_DIGITAL_MONITOR">ST8-SDM01_DIGITAL</channel>
+<channel name="TL-BD-ST8-SDM01:ENV:ENV_TEMP_ANALOG_MONITOR">ST8-SDM01_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM01:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM01_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM01:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM01_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM02:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM02_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM02:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM02_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM03:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM03_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM03:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM03_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM04:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM04_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM04:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM04_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM05:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM05_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM05:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM05_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM06:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM06_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM06:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM06_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM07:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM07_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM07:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM07_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM08:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM08_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM08:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM08_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM09:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM09_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM09:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM09_ANALOG</channel>
+<channel name="TL-BD-BPM-SDM10:ENV:ENV_TEMP_DIGITAL_MONITOR">BPM-SDM10_DIGITAL</channel>
+<channel name="TL-BD-BPM-SDM10:ENV:ENV_TEMP_ANALOG_MONITOR">BPM-SDM10_ANALOG</channel>
+</group>
+
+<group name="G2">
+<unit >Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Trans-BeamMonitor</ChartTitle>
+</group>
+
+<group name="G4">
+<channel name="RNG:BEAM:CURR">Beam current</channel>
+</group>
+
+<group name="G5">
+<unit>BeamCurrent(mA)</unit>
+</group>
+</groups>
+

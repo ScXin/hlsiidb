@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR-CW:S1-1:ai">SM1-1</channel>
+<channel name="SR-CW:S1-2:ai">SM1-2</channel>
+<channel name="SR-CW:S1-3:ai">SM1-3</channel>
+<channel name="SR-CW:S2-1:ai">SM2-1</channel>
+<channel name="SR-CW:S2-2:ai">SM2-2</channel>
+<channel name="SR-CW:S2-3:ai">SM2-3</channel>
+<channel name="SR-CW:S3-1:ai">SM3-1</channel>
+<channel name="SR-CW:S3-2:ai">SM3-2</channel>
+<channel name="SR-CW:S3-3:ai">SM3-3</channel>
+<channel name="SR-CW:S4-1:ai">SM4-1</channel>
+<channel name="SR-CW:S4-2:ai">SM4-2</channel>
+<channel name="SR-CW:S4-3:ai">SM4-3</channel>
+<channel name="SR-CW:S5-1:ai">SM5-1</channel>
+<channel name="SR-CW:S5-2:ai">SM5-2</channel>
+<channel name="SR-CW:S5-3:ai">SM5-3</channel>
+<channel name="SR-CW:S6-1:ai">SM6-1</channel>
+<channel name="SR-CW:S6-2:ai">SM6-2</channel>
+<channel name="SR-CW:S6-3:ai">SM6-3</channel>
+<channel name="SR-CW:S7-1:ai">SM7-1</channel>
+<channel name="SR-CW:S7-2:ai">SM7-2</channel>
+<channel name="SR-CW:S7-3:ai">SM7-3</channel>
+<channel name="SR-CW:S8-1:ai">SM8-1</channel>
+<channel name="SR-CW:S8-2:ai">SM8-2</channel>
+<channel name="SR-CW:S8-3:ai">SM8-3</channel>
+<channel name="SR-CW:S9-1:ai">SM9-1</channel>
+<channel name="SR-CW:S9-2:ai">SM9-2</channel>
+<channel name="SR-CW:S9-3:ai">SM9-3</channel>
+<channel name="SR-CW:S10-1:ai">SM10-1</channel>
+<channel name="SR-CW:S10-2:ai">SM10-2</channel>
+<channel name="SR-CW:S10-3:ai">SM10-3</channel>
+<channel name="SR-CW:S11-1:ai">SM11-1</channel>
+<channel name="SR-CW:S11-2:ai">SM11-2</channel>
+<channel name="SR-CW:S11-3:ai">SM11-3</channel>
+<channel name="SR-CW:S12-1:ai">SM12-1</channel>
+<channel name="SR-CW:S12-2:ai">SM12-2</channel>
+<channel name="SR-CW:S12-3:ai">SM12-3</channel>
+<channel name="SR-CW:S13-1:ai">SM13-1</channel>
+<channel name="SR-CW:S13-2:ai">SM13-2</channel>
+<channel name="SR-CW:S13-3:ai">SM13-3</channel>
+<channel name="SR-CW:S14-1:ai">SM14-1</channel>
+<channel name="SR-CW:S14-2:ai">SM14-2</channel>
+<channel name="SR-CW:S14-3:ai">SM14-3</channel>
+<channel name="SR-CW:S15-1:ai">SM15-1</channel>
+<channel name="SR-CW:S15-2:ai">SM15-2</channel>
+<channel name="SR-CW:S15-3:ai">SM15-3</channel>
+<channel name="SR-CW:S16-1:ai">SM16-1</channel>
+<channel name="SR-CW:S16-2:ai">SM16-2</channel>
+<channel name="SR-CW:S16-3:ai">SM16-3</channel>
+<channel name="SR-CW:S17-1:ai">SM17-1</channel>
+<channel name="SR-CW:S17-2:ai">SM17-2</channel>
+<channel name="SR-CW:S17-3:ai">SM17-3</channel>
+<channel name="SR-CW:S18-1:ai">SM18-1</channel>
+<channel name="SR-CW:S18-2:ai">SM18-2</channel>
+<channel name="SR-CW:S18-3:ai">SM18-3</channel>
+<channel name="SR-CW:S19-1:ai">SM19-1</channel>
+<channel name="SR-CW:S19-2:ai">SM19-2</channel>
+<channel name="SR-CW:S19-3:ai">SM19-3</channel>
+<channel name="SR-CW:S20-1:ai">SM20-1</channel>
+<channel name="SR-CW:S20-2:ai">SM20-2</channel>
+<channel name="SR-CW:S20-3:ai">SM20-3</channel>
+<channel name="SR-CW:S21-1:ai">SM21-1</channel>
+<channel name="SR-CW:S21-2:ai">SM21-2</channel>
+<channel name="SR-CW:S21-3:ai">SM21-3</channel>
+<channel name="SR-CW:S22-1:ai">SM22-1</channel>
+<channel name="SR-CW:S22-2:ai">SM22-2</channel>
+<channel name="SR-CW:S22-3:ai">SM22-3</channel>
+<channel name="SR-CW:S23-1:ai">SM23-1</channel>
+<channel name="SR-CW:S23-2:ai">SM23-2</channel>
+<channel name="SR-CW:S23-3:ai">SM23-3</channel>
+<channel name="SR-CW:S24-1:ai">SM24-1</channel>
+<channel name="SR-CW:S24-2:ai">SM24-2</channel>
+<channel name="SR-CW:S24-3:ai">SM24-3</channel>
+<channel name="SR-CW:S25-1:ai">SM25-1</channel>
+<channel name="SR-CW:S25-2:ai">SM25-2</channel>
+<channel name="SR-CW:S25-3:ai">SM25-3</channel>
+<channel name="SR-CW:S26-1:ai">SM26-1</channel>
+<channel name="SR-CW:S26-2:ai">SM26-2</channel>
+<channel name="SR-CW:S26-3:ai">SM26-3</channel>
+<channel name="SR-CW:S27-1:ai">SM27-1</channel>
+<channel name="SR-CW:S27-2:ai">SM27-2</channel>
+<channel name="SR-CW:S27-3:ai">SM27-3</channel>
+<channel name="SR-CW:S28-1:ai">SM28-1</channel>
+<channel name="SR-CW:S28-2:ai">SM28-2</channel>
+<channel name="SR-CW:S28-3:ai">SM28-3</channel>
+<channel name="SR-CW:S29-1:ai">SM29-1</channel>
+<channel name="SR-CW:S29-2:ai">SM29-2</channel>
+<channel name="SR-CW:S29-3:ai">SM29-3</channel>
+<channel name="SR-CW:S30-1:ai">SM30-1</channel>
+<channel name="SR-CW:S30-2:ai">SM30-2</channel>
+<channel name="SR-CW:S30-3:ai">SM30-3</channel>
+<channel name="SR-CW:S31-1:ai">SM31-1</channel>
+<channel name="SR-CW:S31-2:ai">SM31-2</channel>
+<channel name="SR-CW:S31-3:ai">SM31-3</channel>
+<channel name="SR-CW:S32-1:ai">SM32-1</channel>
+<channel name="SR-CW:S32-2:ai">SM32-2</channel>
+<channel name="SR-CW:S32-3:ai">SM32-3</channel>
+</group>
+
+<group name="G2">
+<unit>Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_Utility</ChartTitle>
+</group>
+
+</groups>

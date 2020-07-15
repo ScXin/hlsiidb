@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="TL-BD-SRM01:Size_X">SRM01:Size_X</channel>
+<channel name="TL-BD-SRM01:Size_Y">SRM01:Size_Y</channel>
+<channel name="TL-BD-SRM02:Size_X">SRM02:Size_X</channel>
+<channel name="TL-BD-SRM02:Size_Y">SRM02:Size_Y</channel>
+</group>
+
+<group name="G2">
+<unit >Size</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Trans-BeamMonitor</ChartTitle>
+</group>
+
+<group name="G4">
+<channel name="RNG:BEAM:CURR">Beam current</channel>
+</group>
+
+<group name="G5">
+<unit>BeamCurrent(mA)</unit>
+</group>
+</groups>
+

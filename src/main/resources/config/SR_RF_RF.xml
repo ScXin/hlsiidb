@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="SR:RF:FREQ:ao">FREQ:ao</channel>
+<channel name="SR:RF:FREQ:ai">FREQ:ai</channel>
+<channel name="SR:RF:REF:AMP:ao">REF:AMP:ao</channel>
+<channel name="SR:RF:REF:AMP:ai">REF:AMP:ai</channel>
+<channel name="SR:RF:CAV:PHA:ao">CAV:PHA:ao</channel>
+<channel name="SR:RF:CAV:PHA:ai">CAV:PHA:ai</channel>
+<channel name="SR:RF:PIN:calc">PIN:calc</channel>
+<channel name="SR:RF:PC:calc">PC:calc</channel>
+<channel name="SR:RF:PR:calc">PR:calc</channel>
+<channel name="SR:RF:VC:calc">VC:calc</channel>
+<channel name="SR:RF:DIF:ANGLE:ai">DIF:ANGLE:ai</channel>
+<channel name="SR:RF:PHASE:ai">PHASE:ai</channel>
+<channel name="SR:RF:CAV:PHASE:ai">CAV:PHASE:ai</channel>
+<channel name="SR:RF:TUN:STICK:ai">TUN:STICK:ai</channel>
+<channel name="S_RF_fedback_loop_R">feedback_loop_R</channel>
+<channel name="SR:RF:INPUT:TEMP:ai">INPUT:TEMP:ai</channel>
+<channel name="CW:GRT2:PV:ai">CW:GRT2:PV:ai</channel>
+<channel name="CW:GRT1:PV:ai">CW:GRT1:PV:ai</channel>
+<channel name="RF_pi_i_out">RF_pi_i_out</channel>
+<channel name="RF_pi_q_out">RF_pi_q_out</channel>
+<channel name="SR:RF:FS:SSA_1:ai">SR:RF:FS:SSA_1:ai</channel>
+<channel name="SR:RF:FS:SSA_2:ai">SR:RF:FS:SSA_2:ai</channel>
+<channel name="SR:RF:FS:SSA_3:ai">SR:RF:FS:SSA_3:ai</channel>
+<channel name="SR:RF:FS:SSA_4:ai">SR:RF:FS:SSA_4:ai</channel>
+<channel name="SR:RF:FS:SSA_5:ai">SR:RF:FS:SSA_5:ai</channel>
+<channel name="SR:RF:FS:SSA_6:ai">SR:RF:FS:SSA_6:ai</channel>
+<channel name="SR-VA-PRESSURE:RF">SR-VA-PRESSURE:RF</channel>
+</group>
+
+<group name="G2">
+<unit >No Unit</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_RF</ChartTitle>
+</group>
+
+</groups>
+

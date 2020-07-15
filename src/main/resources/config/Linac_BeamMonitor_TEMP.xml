@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="LA-BD-TEMP:FCT">FCT</channel>
+<channel name="LA-BD-TEMP:ICT">ICT</channel>
+<channel name="LA-BD-BPM-SDM01:ENV:ENV_TEMP_DIGITAL_MONITOR">SDM01_DIGITAL</channel>
+<channel name="LA-BD-BPM-SDM01:ENV:ENV_TEMP_ANALOG_MONITOR">SDM01_ANALOG</channel>
+<channel name="LA-BD-BPM-SDM02:ENV:ENV_TEMP_DIGITAL_MONITOR">SDM02_DIGITAL</channel>
+<channel name="LA-BD-BPM-SDM02:ENV:ENV_TEMP_ANALOG_MONITOR">SDM02_ANALOG</channel>
+<channel name="LA-BD-BPM-SDM03:ENV:ENV_TEMP_DIGITAL_MONITOR">SDM03_DIGITAL</channel>
+<channel name="LA-BD-BPM-SDM03:ENV:ENV_TEMP_ANALOG_MONITOR">SDM03_ANALOG</channel>
+<channel name="LA-BD-BPM-SDM04:ENV:ENV_TEMP_DIGITAL_MONITOR">SDM04_DIGITAL</channel>
+<channel name="LA-BD-BPM-SDM04:ENV:ENV_TEMP_ANALOG_MONITOR">SDM04_ANALOG</channel>
+<channel name="LA-BD-BPM-SDM05:ENV:ENV_TEMP_DIGITAL_MONITOR">SDM05_DIGITAL</channel>
+<channel name="LA-BD-BPM-SDM05:ENV:ENV_TEMP_ANALOG_MONITOR">SDM05_ANALOG</channel>
+<channel name="LA-BD-BPM-SDM06:ENV:ENV_TEMP_DIGITAL_MONITOR">SDM06_DIGITAL</channel>
+<channel name="LA-BD-BPM-SDM06:ENV:ENV_TEMP_ANALOG_MONITOR">SDM06_ANALOG</channel>
+<channel name="LA-BD-BPM-SDM07:ENV:ENV_TEMP_DIGITAL_MONITOR">SDM07_DIGITAL</channel>
+<channel name="LA-BD-BPM-SDM07:ENV:ENV_TEMP_ANALOG_MONITOR">SDM07_ANALOG</channel>
+</group>
+
+<group name="G2">
+<unit >Temperature(C)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-BeamMonitor</ChartTitle>
+</group>
+
+<group name="G4">
+<channel name="RNG:BEAM:CURR">Beam current</channel>
+</group>
+
+<group name="G5">
+<unit>BeamCurrent(mA)</unit>
+</group>
+</groups>
+

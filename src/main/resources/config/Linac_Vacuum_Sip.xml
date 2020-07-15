@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+	<channel name="LA_VA_sip1:current:ai">sip1</channel>
+    	<channel name="LA_VA_sip2:current:ai">sip2</channel>
+	<channel name="LA_VA_sip3:current:ai">sip3</channel>
+	<channel name="LA_VA_sip4:current:ai">sip4</channel>
+	<channel name="LA_VA_sip5:current:ai">sip5</channel>
+	<channel name="LA_VA_sip6:current:ai">sip6</channel>
+	<channel name="LA_VA_sip7:current:ai">sip7</channel>
+	<channel name="LA_VA_sip8:current:ai">sip8</channel>
+	<channel name="LA_VA_sip9:current:ai">sip9</channel>
+	<channel name="LA_VA_sip10:current:ai">sip10</channel>
+	<channel name="LA_VA_sip11:current:ai">sip11</channel>
+	<channel name="LA_VA_sip12:current:ai">sip12</channel>
+	<channel name="LA_VA_sip13:current:ai">sip13</channel>
+	<channel name="LA_VA_sip14:current:ai">sip14</channel>
+	<channel name="LA_VA_sip15:current:ai">sip15</channel>
+	<channel name="LA_VA_sip16:current:ai">sip16</channel>
+	<channel name="LA_VA_sip17:current:ai">sip17</channel>
+	<channel name="LA_VA_sip18:current:ai">sip18</channel>
+	<channel name="LA_VA_sip19:current:ai">sip19</channel>
+	<channel name="LA_VA_sip20:current:ai">sip20</channel>
+	<channel name="LA_VA_sip21:current:ai">sip21</channel>
+	<channel name="LA_VA_sip22:current:ai">sip22</channel>
+	<channel name="LA_VA_sip23:current:ai">sip23</channel>
+	<channel name="LA_VA_sip24:current:ai">sip24</channel>
+	<channel name="LA_VA_sip25:current:ai">sip25</channel>
+	<channel name="LA_VA_sip26:current:ai">sip26</channel>
+	<channel name="LA_VA_sip27:current:ai">sip27</channel>
+	<channel name="LA_VA_sip28:current:ai">sip28</channel>
+	<channel name="LA_VA_sip29:current:ai">sip29</channel>
+	<channel name="LA_VA_sip30:current:ai">sip30</channel>
+	<channel name="LA_VA_sip31:current:ai">sip31</channel>
+	<channel name="LA_VA_sip32:current:ai">sip32</channel>
+	<channel name="LA_VA_sip33:current:ai">sip33</channel>
+	<channel name="LA_VA_sip34:current:ai">sip34</channel>
+	<channel name="LA_VA_sip35:current:ai">sip35</channel>
+	<channel name="LA_VA_sip36:current:ai">sip36</channel>
+</group>
+
+<group name="G2">
+<unit>Sip(A)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-Vacuum</ChartTitle>
+</group>
+
+</groups>
+

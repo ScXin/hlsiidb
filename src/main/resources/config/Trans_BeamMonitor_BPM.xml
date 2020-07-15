@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="INJ:TL:BPM:BPM01:X">BPM01:X</channel>
+<channel name="INJ:TL:BPM:BPM02:X">BPM02:X</channel>
+<channel name="INJ:TL:BPM:BPM03:X">BPM03:X</channel>
+<channel name="INJ:TL:BPM:BPM04:X">BPM04:X</channel>
+<channel name="INJ:TL:BPM:BPM05:X">BPM05:X</channel>
+<channel name="INJ:TL:BPM:BPM06:X">BPM06:X</channel>
+<channel name="INJ:TL:BPM:BPM07:X">BPM07:X</channel>
+<channel name="INJ:TL:BPM:BPM08:X">BPM08:X</channel>
+<channel name="INJ:TL:BPM:BPM09:X">BPM09:X</channel>
+<channel name="INJ:TL:BPM:BPM10:X">BPM10:X</channel>
+<channel name="INJ:TL:BPM:BPM01:Y">BPM01:Y</channel>
+<channel name="INJ:TL:BPM:BPM02:Y">BPM02:Y</channel>
+<channel name="INJ:TL:BPM:BPM03:Y">BPM03:Y</channel>
+<channel name="INJ:TL:BPM:BPM04:Y">BPM04:Y</channel>
+<channel name="INJ:TL:BPM:BPM05:Y">BPM05:Y</channel>
+<channel name="INJ:TL:BPM:BPM06:Y">BPM06:Y</channel>
+<channel name="INJ:TL:BPM:BPM07:Y">BPM07:Y</channel>
+<channel name="INJ:TL:BPM:BPM08:Y">BPM08:Y</channel>
+<channel name="INJ:TL:BPM:BPM09:Y">BPM09:Y</channel>
+<channel name="INJ:TL:BPM:BPM10:Y">BPM10:Y</channel>
+</group>
+
+<group name="G2">
+<unit >x(mm)</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>Linac-BeamMonitor</ChartTitle>
+</group>
+
+</groups>
+

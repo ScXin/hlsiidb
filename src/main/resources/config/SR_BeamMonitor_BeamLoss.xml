@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="RNG:HostSource:UPData:Sub1">UP1</channel>
+<channel name="RNG:HostSource:UPData:Sub2">UP2</channel>
+<channel name="RNG:HostSource:UPData:Sub3">UP3</channel>
+<channel name="RNG:HostSource:UPData:Sub4">UP4</channel>
+<channel name="RNG:HostSource:UPData:Sub5">UP5</channel>
+<channel name="RNG:HostSource:UPData:Sub6">UP6</channel>
+<channel name="RNG:HostSource:UPData:Sub7">UP7</channel>
+<channel name="RNG:HostSource:UPData:Sub8">UP8</channel>
+<channel name="RNG:HostSource:UPData:Sub9">UP9</channel>
+<channel name="RNG:HostSource:UPData:Sub10">UP10</channel>
+<channel name="RNG:HostSource:UPData:Sub11">UP11</channel>
+<channel name="RNG:HostSource:UPData:Sub12">UP12</channel>
+<channel name="RNG:HostSource:UPData:Sub13">UP13</channel>
+<channel name="RNG:HostSource:UPData:Sub14">UP14</channel>
+<channel name="RNG:HostSource:UPData:Sub15">UP15</channel>
+<channel name="RNG:HostSource:UPData:Sub16">UP16</channel>
+<channel name="RNG:HostSource:UPData:Sub17">UP17</channel>
+<channel name="RNG:HostSource:UPData:Sub18">UP18</channel>
+<channel name="RNG:HostSource:UPData:Sub19">UP19</channel>
+<channel name="RNG:HostSource:UPData:Sub20">UP20</channel>
+<channel name="RNG:HostSource:DOWNData:Sub1">DOWN1</channel>
+<channel name="RNG:HostSource:DOWNData:Sub2">DOWN2</channel>
+<channel name="RNG:HostSource:DOWNData:Sub3">DOWN3</channel>
+<channel name="RNG:HostSource:DOWNData:Sub4">DOWN4</channel>
+<channel name="RNG:HostSource:DOWNData:Sub5">DOWN5</channel>
+<channel name="RNG:HostSource:DOWNData:Sub6">DOWN6</channel>
+<channel name="RNG:HostSource:DOWNData:Sub7">DOWN7</channel>
+<channel name="RNG:HostSource:DOWNData:Sub8">DOWN8</channel>
+<channel name="RNG:HostSource:DOWNData:Sub9">DOWN9</channel>
+<channel name="RNG:HostSource:DOWNData:Sub10">DOWN10</channel>
+<channel name="RNG:HostSource:DOWNData:Sub11">DOWN11</channel>
+<channel name="RNG:HostSource:DOWNData:Sub12">DOWN12</channel>
+<channel name="RNG:HostSource:DOWNData:Sub13">DOWN13</channel>
+<channel name="RNG:HostSource:DOWNData:Sub14">DOWN14</channel>
+<channel name="RNG:HostSource:DOWNData:Sub15">DOWN15</channel>
+<channel name="RNG:HostSource:DOWNData:Sub16">DOWN16</channel>
+<channel name="RNG:HostSource:DOWNData:Sub17">DOWN17</channel>
+<channel name="RNG:HostSource:DOWNData:Sub18">DOWN18</channel>
+<channel name="RNG:HostSource:DOWNData:Sub19">DOWN19</channel>
+<channel name="RNG:HostSource:DOWNData:Sub20">DOWN20</channel>
+<channel name="RNG:HostSource:INData:Sub1">IN1</channel>
+<channel name="RNG:HostSource:INData:Sub2">IN2</channel>
+<channel name="RNG:HostSource:INData:Sub3">IN3</channel>
+<channel name="RNG:HostSource:INData:Sub4">IN4</channel>
+<channel name="RNG:HostSource:INData:Sub5">IN5</channel>
+<channel name="RNG:HostSource:INData:Sub6">IN6</channel>
+<channel name="RNG:HostSource:INData:Sub7">IN7</channel>
+<channel name="RNG:HostSource:INData:Sub8">IN8</channel>
+<channel name="RNG:HostSource:INData:Sub9">IN9</channel>
+<channel name="RNG:HostSource:INData:Sub10">IN10</channel>
+<channel name="RNG:HostSource:INData:Sub11">IN11</channel>
+<channel name="RNG:HostSource:INData:Sub12">IN12</channel>
+<channel name="RNG:HostSource:INData:Sub13">IN13</channel>
+<channel name="RNG:HostSource:INData:Sub14">IN14</channel>
+<channel name="RNG:HostSource:INData:Sub15">IN15</channel>
+<channel name="RNG:HostSource:INData:Sub16">IN16</channel>
+<channel name="RNG:HostSource:INData:Sub17">IN17</channel>
+<channel name="RNG:HostSource:INData:Sub18">IN18</channel>
+<channel name="RNG:HostSource:INData:Sub19">IN19</channel>
+<channel name="RNG:HostSource:INData:Sub20">IN20</channel>
+<channel name="RNG:HostSource:OUTData:Sub1">OUT1</channel>
+<channel name="RNG:HostSource:OUTData:Sub2">OUT2</channel>
+<channel name="RNG:HostSource:OUTData:Sub3">OUT3</channel>
+<channel name="RNG:HostSource:OUTData:Sub4">OUT4</channel>
+<channel name="RNG:HostSource:OUTData:Sub5">OUT5</channel>
+<channel name="RNG:HostSource:OUTData:Sub6">OUT6</channel>
+<channel name="RNG:HostSource:OUTData:Sub7">OUT7</channel>
+<channel name="RNG:HostSource:OUTData:Sub8">OUT8</channel>
+<channel name="RNG:HostSource:OUTData:Sub9">OUT9</channel>
+<channel name="RNG:HostSource:OUTData:Sub10">OUT10</channel>
+<channel name="RNG:HostSource:OUTData:Sub11">OUT11</channel>
+<channel name="RNG:HostSource:OUTData:Sub12">OUT12</channel>
+<channel name="RNG:HostSource:OUTData:Sub13">OUT13</channel>
+<channel name="RNG:HostSource:OUTData:Sub14">OUT14</channel>
+<channel name="RNG:HostSource:OUTData:Sub15">OUT15</channel>
+<channel name="RNG:HostSource:OUTData:Sub16">OUT16</channel>
+<channel name="RNG:HostSource:OUTData:Sub17">OUT17</channel>
+<channel name="RNG:HostSource:OUTData:Sub18">OUT18</channel>
+<channel name="RNG:HostSource:OUTData:Sub19">OUT19</channel>
+<channel name="RNG:HostSource:OUTData:Sub20">OUT20</channel>
+<channel name="RNG:BEAM:LOSS:ALARM">BEAMLOSSALARM</channel>
+</group>
+
+<group name="G2">
+<unit>count</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR-BeamMonitor</ChartTitle>
+</group>
+
+<group name="G4">
+<channel name="RNG:BEAM:CURR">Beam current</channel>
+</group>
+
+<group name="G5">
+<unit>BeamCurrent(mA)</unit>
+</group>
+</groups>
+

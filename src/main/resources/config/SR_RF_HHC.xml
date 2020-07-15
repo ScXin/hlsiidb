@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+
+<group name="G1">
+<channel name="RNG:HHC:Vcav:ao">Vcav:ao</channel>
+<channel name="RNG:HHC:Vcav:ai">Vcav:ai</channel>
+<channel name="RNG:HHC:Vcav:calc">Vcav:calc</channel>
+<channel name="RNG:HHC:Position:ao">Position:ao</channel>
+<channel name="RNG:HHC:Position:ai">Position:ai</channel>
+<channel name="RNG:HHC:Freq:ao">Freq:ao</channel>
+<channel name="RNG:HHC:Freq:ai">Freq:ai</channel>
+<channel name="RNG:HHC:FDBK:VSET">FDBK:VSET</channel>
+<channel name="RNG:HHC:FDBK:DV">FDBK:DV</channel>
+<channel name="RNG:HHC:FDBK:VAL">FDBK:VAL</channel>
+</group>
+
+<group name="G2">
+<unit >No Unit</unit>
+</group>
+
+<group name="G3">
+<ChartTitle>SR_RF</ChartTitle>
+</group>
+
+</groups>
+
