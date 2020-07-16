@@ -148,7 +148,7 @@ public class RegisterDao {
         try {
             email.addTo(to);//设置收件人
             email.setFrom("brave@mail.ustc.edu.cn", "HLS-II System Service");//发送人的邮箱为自己的，用户名可以随便填
-            email.setAuthentication("brave@mail.ustc.edu.cn", "106890");//设置发送人到的邮箱和用户名和授权码(授权码是自己设置的)
+            email.setAuthentication("brave@mail.ustc.edu.cn", "******");//设置发送人到的邮箱和用户名和授权码(授权码是自己设置的)
             email.setSubject("注册成功！");//设置发送主题
             email.setMsg("您好！你注册的HLS-II账号已通过管理员审核并激活，使用注册时的用户和密码即可访问HLS-II网页系统！");//设置发送内容
             //由于邮件滥发等原因阿里云服务器禁用了25端口，所以这里得使用ssl加密传输（这样使用的端口号是465）
@@ -166,7 +166,7 @@ public class RegisterDao {
         try {
             email.addTo(to);//设置收件人
             email.setFrom("brave@mail.ustc.edu.cn", "HLS-II System Service");//发送人的邮箱为自己的，用户名可以随便填
-            email.setAuthentication("brave@mail.ustc.edu.cn", "106890");//设置发送人到的邮箱和用户名和授权码(授权码是自己设置的)
+            email.setAuthentication("brave@mail.ustc.edu.cn", "******");//设置发送人到的邮箱和用户名和授权码(授权码是自己设置的)
             email.setSubject("用户密码找回！");//设置发送主题
             email.setMsg(content);//设置发送内容
             //由于邮件滥发等原因阿里云服务器禁用了25端口，所以这里得使用ssl加密传输（这样使用的端口号是465）
@@ -186,7 +186,7 @@ public class RegisterDao {
         try {
             email.addTo(to);//设置收件人
             email.setFrom("brave@mail.ustc.edu.cn", "HLS-II System Service");//发送人的邮箱为自己的，用户名可以随便填
-            email.setAuthentication("brave@mail.ustc.edu.cn", "106890");//设置发送人到的邮箱和用户名和授权码(授权码是自己设置的)
+            email.setAuthentication("brave@mail.ustc.edu.cn", "******");//设置发送人到的邮箱和用户名和授权码(授权码是自己设置的)
             email.setSubject("账户密码重置！");//设置发送主题
             email.setMsg(content);//设置发送内容
             //由于邮件滥发等原因阿里云服务器禁用了25端口，所以这里得使用ssl加密传输（这样使用的端口号是465）
@@ -206,7 +206,7 @@ public class RegisterDao {
         try {
             email.addTo(to);//设置收件人
             email.setFrom("brave@mail.ustc.edu.cn", "HLS-II System Service");//发送人的邮箱为自己的，用户名可以随便填
-            email.setAuthentication("brave@mail.ustc.edu.cn", "106890");//设置发送人到的邮箱和用户名和授权码(授权码是自己设置的)
+            email.setAuthentication("brave@mail.ustc.edu.cn", "******");//设置发送人到的邮箱和用户名和授权码(授权码是自己设置的)
             email.setSubject("人员注册！");//设置发送主题
             email.setMsg("HLS-II有新的注册用户啦，请及时处理！");//设置发送内容
             //由于邮件滥发等原因阿里云服务器禁用了25端口，所以这里得使用ssl加密传输（这样使用的端口号是465）
